@@ -1,0 +1,502 @@
+[
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "name": "freeCodeCamp",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "openclaw/openclaw",
+    "name": "openclaw",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "torvalds/linux",
+    "name": "linux",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "name": "tensorflow",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "ultraworkers/claw-code",
+    "name": "claw-code",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "name": "n8n",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "name": "vscode",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "name": "AutoGPT",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "flutter/flutter",
+    "name": "flutter",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "twbs/bootstrap",
+    "name": "bootstrap",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "name": "awesome-go",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "ollama/ollama",
+    "name": "ollama",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "affaan-m/everything-claude-code",
+    "name": "everything-claude-code",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "f/prompts.chat",
+    "name": "prompts.chat",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "huggingface/transformers",
+    "name": "transformers",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "Snailclimb/JavaGuide",
+    "name": "JavaGuide",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "name": "opencode",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "langflow-ai/langflow",
+    "name": "langflow",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "langgenius/dify",
+    "name": "dify",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "vercel/next.js",
+    "name": "next.js",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "Genymobile/scrcpy",
+    "name": "scrcpy",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "name": "langchain",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "microsoft/PowerToys",
+    "name": "PowerToys",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "facebook/react-native",
+    "name": "react-native",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "excalidraw/excalidraw",
+    "name": "excalidraw",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "name": "kubernetes",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "electron/electron",
+    "name": "electron",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "ripienaar/free-for-dev",
+    "name": "free-for-dev",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "anthropics/claude-code",
+    "name": "claude-code",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "name": "hermes-agent",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "nodejs/node",
+    "name": "node",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "iptv-org/iptv",
+    "name": "iptv",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "name": "clash-verge-rev",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "shadcn-ui/ui",
+    "name": "ui",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "name": "rustdesk",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "rust-lang/rust",
+    "name": "rust",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "firecrawl/firecrawl",
+    "name": "firecrawl",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "mrdoob/three.js",
+    "name": "three.js",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "Comfy-Org/ComfyUI",
+    "name": "ComfyUI",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "axios/axios",
+    "name": "axios",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "name": "llama.cpp",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "denoland/deno",
+    "name": "deno",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "2dust/v2rayN",
+    "name": "v2rayN",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "microsoft/terminal",
+    "name": "terminal",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "google-gemini/gemini-cli",
+    "name": "gemini-cli",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "supabase/supabase",
+    "name": "supabase",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "name": "pytorch",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "neovim/neovim",
+    "name": "neovim",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "immich-app/immich",
+    "name": "immich",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "mui/material-ui",
+    "name": "material-ui",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "ant-design/ant-design",
+    "name": "ant-design",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "fastapi/fastapi",
+    "name": "fastapi",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "tailwindlabs/tailwindcss",
+    "name": "tailwindcss",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "name": "browser-use",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "oven-sh/bun",
+    "name": "bun",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "bitcoin/bitcoin",
+    "name": "bitcoin",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "name": "hugo",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "mermaid-js/mermaid",
+    "name": "mermaid",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "django/django",
+    "name": "django",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "microsoft/playwright",
+    "name": "playwright",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "opencv/opencv",
+    "name": "opencv",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "home-assistant/core",
+    "name": "core",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "louislam/uptime-kuma",
+    "name": "uptime-kuma",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "punkpeye/awesome-mcp-servers",
+    "name": "awesome-mcp-servers",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "name": "uv",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "garrytan/gstack",
+    "name": "gstack",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "name": "syncthing",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "sherlock-project/sherlock",
+    "name": "sherlock",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "spring-projects/spring-boot",
+    "name": "spring-boot",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "name": "zed",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "hoppscotch/hoppscotch",
+    "name": "hoppscotch",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "infiniflow/ragflow",
+    "name": "ragflow",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "netdata/netdata",
+    "name": "netdata",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "name": "vllm",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "openai/codex",
+    "name": "codex",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "Stirling-Tools/Stirling-PDF",
+    "name": "Stirling-PDF",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "elastic/elasticsearch",
+    "name": "elasticsearch",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "lobehub/lobehub",
+    "name": "lobehub",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "nestjs/nest",
+    "name": "nest",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "unionlabs/union",
+    "name": "union",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "grafana/grafana",
+    "name": "grafana",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "openai/openai-cookbook",
+    "name": "openai-cookbook",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "apache/superset",
+    "name": "superset",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "python/cpython",
+    "name": "cpython",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "daytonaio/daytona",
+    "name": "daytona",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "OpenHands/OpenHands",
+    "name": "OpenHands",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "name": "caddy",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "moby/moby",
+    "name": "moby",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "name": "protobuf",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "fffaraz/awesome-cpp",
+    "name": "awesome-cpp",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "danielmiessler/SecLists",
+    "name": "SecLists",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "swiftlang/swift",
+    "name": "swift",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "toeverything/AFFiNE",
+    "name": "AFFiNE",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "thedotmack/claude-mem",
+    "name": "claude-mem",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "OpenBB-finance/OpenBB",
+    "name": "OpenBB",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "name": "scikit-learn",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "webpack/webpack",
+    "name": "webpack",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "keras-team/keras",
+    "name": "keras",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "bytedance/deer-flow",
+    "name": "deer-flow",
+    "added_at": "2026-04-26"
+  },
+  {
+    "repo": "pathwaycom/pathway",
+    "name": "pathway",
+    "added_at": "2026-04-26"
+  }
+]
