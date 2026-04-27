@@ -1,49 +1,49 @@
 # 🔥 GitHub Star 增长最快项目追踪
 
-> 📅 数据更新于 2026-04-26 15:24（每日自动更新）
+> 📅 数据更新于 2026-04-27 06:25（每日自动更新）
 
 ## 📈 Top 30（按 24 小时 Star 增长量）
 
 | 排名 | 项目 | 语言 | Stars | 24h 增长 | 状态 |
 |------|------|------|-------|---------|------|
-| 1 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | Unknown | 459,183 | 0 ➖ | ✨ |
-| 2 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 443,603 | 0 ➖ | ✨ |
-| 3 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | 386,058 | 0 ➖ | ✨ |
-| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 364,310 | 0 ➖ | ✨ |
-| 5 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | TypeScript | 353,671 | 0 ➖ | ✨ |
-| 6 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 294,477 | 0 ➖ | ✨ |
-| 7 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Unknown | 288,292 | 0 ➖ | ✨ |
-| 8 | [facebook/react](https://github.com/facebook/react) | JavaScript | 244,697 | 0 ➖ | ✨ |
-| 9 | [torvalds/linux](https://github.com/torvalds/linux) | C | 230,892 | 0 ➖ | ✨ |
-| 10 | [ossu/computer-science](https://github.com/ossu/computer-science) | HTML | 203,283 | 0 ➖ | ✨ |
-| 11 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | C++ | 194,889 | 0 ➖ | ✨ |
-| 12 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 188,527 | 0 ➖ | ✨ |
-| 13 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | Shell | 186,499 | 0 ➖ | ✨ |
-| 14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | 185,654 | 0 ➖ | ✨ |
-| 15 | [microsoft/vscode](https://github.com/microsoft/vscode) | TypeScript | 184,296 | 0 ➖ | ✨ |
-| 16 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python | 183,772 | 0 ➖ | ✨ |
-| 17 | [flutter/flutter](https://github.com/flutter/flutter) | Dart | 176,112 | 0 ➖ | ✨ |
-| 18 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | MDX | 174,210 | 0 ➖ | ✨ |
-| 19 | [github/gitignore](https://github.com/github/gitignore) | Unknown | 173,567 | 0 ➖ | ✨ |
-| 20 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | Go | 171,050 | 0 ➖ | ✨ |
-| 21 | [ollama/ollama](https://github.com/ollama/ollama) | Go | 170,051 | 0 ➖ | ✨ |
-| 22 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 168,225 | 0 ➖ | ✨ |
-| 23 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 167,389 | 0 ➖ | ✨ |
-| 24 | [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 160,760 | 0 ➖ | ✨ |
-| 25 | [huggingface/transformers](https://github.com/huggingface/transformers) | Python | 159,944 | 0 ➖ | ✨ |
-| 26 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 158,846 | 0 ➖ | ✨ |
-| 27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | 158,696 | 0 ➖ | ✨ |
-| 28 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java | 155,229 | 0 ➖ | ✨ |
-| 29 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 149,831 | 0 ➖ | ✨ |
-| 30 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python | 147,374 | 0 ➖ | ✨ |
+| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 91,611 | +1836 (2.05%) 🚀 | 👁️ |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 118,983 | +1116 (0.95%) 🚀 | 👁️ |
+| 3 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 84,502 | +709 (0.85%) 🚀 | 👁️ |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 168,881 | +656 (0.39%) 🚀 | 👁️ |
+| 5 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 364,898 | +588 (0.16%) 🚀 | 👁️ |
+| 6 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 167,838 | +449 (0.27%) 📈 | 👁️ |
+| 7 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 150,157 | +326 (0.22%) 📈 | 👁️ |
+| 8 | [home-assistant/core](https://github.com/home-assistant/core) | Python | 86,657 | +317 (0.37%) 📈 | 👁️ |
+| 9 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 124,455 | +303 (0.24%) 📈 | 👁️ |
+| 10 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 68,082 | +293 (0.43%) 📈 | 👁️ |
+| 11 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 117,554 | +266 (0.23%) 📈 | 👁️ |
+| 12 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 115,360 | +193 (0.17%) 📈 | 👁️ |
+| 13 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | 118,265 | +172 (0.15%) 📈 | 👁️ |
+| 14 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 82,374 | +150 (0.18%) 📈 | 👁️ |
+| 15 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | 112,508 | +148 (0.13%) 📈 | 👁️ |
+| 16 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 188,674 | +147 (0.08%) 📈 | 👁️ |
+| 17 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 90,552 | +147 (0.16%) 📈 | 👁️ |
+| 18 | [openai/codex](https://github.com/openai/codex) | Rust | 78,146 | +130 (0.17%) 📈 | 👁️ |
+| 19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Unknown | 288,406 | +114 (0.04%) 📈 | 👁️ |
+| 20 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | 134,338 | +110 (0.08%) 📈 | 👁️ |
+| 21 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | 106,818 | +110 (0.1%) 📈 | 👁️ |
+| 22 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript | 113,721 | +109 (0.1%) 📈 | 👁️ |
+| 23 | [github/spec-kit](https://github.com/github/spec-kit) | Python | 91,057 | +104 (0.11%) 📈 | 👁️ |
+| 24 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | 386,159 | +101 (0.03%) 📈 | 👁️ |
+| 25 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 107,692 | +97 (0.09%) 📊 | 👁️ |
+| 26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | 185,738 | +84 (0.05%) 📊 | 👁️ |
+| 27 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 294,557 | +80 (0.03%) 📊 | 👁️ |
+| 28 | [torvalds/linux](https://github.com/torvalds/linux) | C | 230,966 | +74 (0.03%) 📊 | 👁️ |
+| 29 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 110,237 | +73 (0.07%) 📊 | 👁️ |
+| 30 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 63,924 | +68 (0.11%) 📊 | 👁️ |
 
 ---
 
 ## 📊 统计信息
 
 - 共追踪 **136** 个项目
-- 今日有增长的项目：**0** 个
-- 新增项目：**30** 个
+- 今日有增长的项目：**30** 个
+- 新增项目：**0** 个
 
 ## ℹ️ 关于
 
