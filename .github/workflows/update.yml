@@ -37,8 +37,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-trending-bot"
-          git config --global user.email "github-trending-bot@users.noreply.github.com"
+          git config --global user.name "mangoyoo"
+          git config --global user.email "676224061@qq.com"
           git add .
           if ! git diff --quiet || ! git diff --cached --quiet; then
             git commit -m "📊 每日更新 $(date +'%Y-%m-%d' --date='TZ=\"Asia/Shanghai\"')"
