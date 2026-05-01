@@ -1,47 +1,47 @@
 # 🔥 GitHub Star 增长最快项目追踪
 
-> 📅 数据更新于 2026-04-30 06:24（每日自动更新）
+> 📅 数据更新于 2026-05-01 06:34（每日自动更新）
 
 ## 📈 Top 30（按 24 小时 Star 增长量）
 
 | 排名 | 项目 | 语言 | Stars | 24h 增长 | 状态 |
 |------|------|------|-------|---------|------|
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 125,543 | +2003 (1.62%) 🚀 | 👁️ |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 173,599 | +1640 (0.95%) 🚀 | 👁️ |
-| 3 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 170,426 | +843 (0.5%) 🚀 | 👁️ |
-| 4 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 126,269 | +630 (0.5%) 🚀 | 👁️ |
-| 5 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 86,949 | +622 (0.72%) 🚀 | 👁️ |
-| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 152,167 | +618 (0.41%) 🚀 | 👁️ |
-| 7 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 69,907 | +547 (0.79%) 🚀 | 👁️ |
-| 8 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | 387,305 | +516 (0.13%) 🚀 | 👁️ |
-| 9 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | 80,506 | +513 (0.64%) 🚀 | 👁️ |
-| 10 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 366,491 | +472 (0.13%) 📈 | 👁️ |
-| 11 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | 119,320 | +350 (0.29%) 📈 | 👁️ |
-| 12 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# | 132,484 | +342 (0.26%) 📈 | 👁️ |
-| 13 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript | 114,759 | +334 (0.29%) 📈 | 👁️ |
-| 14 | [openai/codex](https://github.com/openai/codex) | Rust | 78,993 | +302 (0.38%) 📈 | 👁️ |
-| 15 | [github/spec-kit](https://github.com/github/spec-kit) | Python | 91,827 | +232 (0.25%) 📈 | 👁️ |
-| 16 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 91,280 | +226 (0.25%) 📈 | 👁️ |
-| 17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Unknown | 288,983 | +224 (0.08%) 📈 | 👁️ |
-| 18 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | 113,160 | +219 (0.19%) 📈 | 👁️ |
-| 19 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | 107,499 | +213 (0.2%) 📈 | 👁️ |
-| 20 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | Python | 153,973 | +198 (0.13%) 📈 | 👁️ |
-| 21 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 159,419 | +196 (0.12%) 📈 | 👁️ |
-| 22 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 189,290 | +188 (0.1%) 📈 | 👁️ |
-| 23 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 110,697 | +180 (0.16%) 📈 | 👁️ |
-| 24 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 295,125 | +178 (0.06%) 📈 | 👁️ |
-| 25 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | 134,867 | +161 (0.12%) 📈 | 👁️ |
-| 26 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | 99,277 | +161 (0.16%) 📈 | 👁️ |
-| 27 | [torvalds/linux](https://github.com/torvalds/linux) | C | 231,353 | +152 (0.07%) 📈 | 👁️ |
-| 28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | 186,168 | +148 (0.08%) 📈 | 👁️ |
-| 29 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | C# | 104,010 | +136 (0.13%) 📈 | 👁️ |
-| 30 | [langgenius/dify](https://github.com/langgenius/dify) | TypeScript | 139,696 | +135 (0.1%) 📈 | 👁️ |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 127,107 | +1564 (1.25%) 🚀 | 👁️ |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 174,837 | +1238 (0.71%) 🚀 | 👁️ |
+| 3 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 171,087 | +661 (0.39%) 🚀 | 👁️ |
+| 4 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 70,459 | +552 (0.79%) 🚀 | 👁️ |
+| 5 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 152,718 | +551 (0.36%) 🚀 | 👁️ |
+| 6 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 87,478 | +529 (0.61%) 🚀 | 👁️ |
+| 7 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | 80,945 | +439 (0.55%) 📈 | 👁️ |
+| 8 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 366,885 | +394 (0.11%) 📈 | 👁️ |
+| 9 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | 113,543 | +383 (0.34%) 📈 | 👁️ |
+| 10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Unknown | 289,260 | +277 (0.1%) 📈 | 👁️ |
+| 11 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript | 115,030 | +271 (0.24%) 📈 | 👁️ |
+| 12 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | 119,565 | +245 (0.21%) 📈 | 👁️ |
+| 13 | [openai/codex](https://github.com/openai/codex) | Rust | 79,224 | +231 (0.29%) 📈 | 👁️ |
+| 14 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 295,320 | +195 (0.07%) 📈 | 👁️ |
+| 15 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | Python | 154,167 | +194 (0.13%) 📈 | 👁️ |
+| 16 | [github/spec-kit](https://github.com/github/spec-kit) | Python | 92,015 | +188 (0.2%) 📈 | 👁️ |
+| 17 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 91,462 | +182 (0.2%) 📈 | 👁️ |
+| 18 | [torvalds/linux](https://github.com/torvalds/linux) | C | 231,521 | +168 (0.07%) 📈 | 👁️ |
+| 19 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# | 132,651 | +167 (0.13%) 📈 | 👁️ |
+| 20 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | 107,665 | +166 (0.15%) 📈 | 👁️ |
+| 21 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 110,856 | +159 (0.14%) 📈 | 👁️ |
+| 22 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | 135,020 | +153 (0.11%) 📈 | 👁️ |
+| 23 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 189,440 | +150 (0.08%) 📈 | 👁️ |
+| 24 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 108,258 | +145 (0.13%) 📈 | 👁️ |
+| 25 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | 186,312 | +144 (0.08%) 📈 | 👁️ |
+| 26 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | 387,443 | +138 (0.04%) 📈 | 👁️ |
+| 27 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 159,543 | +124 (0.08%) 📈 | 👁️ |
+| 28 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | C# | 104,129 | +119 (0.11%) 📈 | 👁️ |
+| 29 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | 99,396 | +119 (0.12%) 📈 | 👁️ |
+| 30 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python | 135,535 | +101 (0.07%) 📈 | 👁️ |
 
 ---
 
 ## 📊 统计信息
 
-- 共追踪 **133** 个项目
+- 共追踪 **132** 个项目
 - 今日有增长的项目：**30** 个
 - 新增项目：**0** 个
 
