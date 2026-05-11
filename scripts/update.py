@@ -95,9 +95,10 @@ def fetch_trending_repos() -> list[dict]:
         })
 
     # 再补充获取 tracked_repos.json 中的固定项目（确保不会漏掉）
+    # 无 GITHUB_TOKEN 时跳过，避免 rate limit 导致脚本挂起
     tracked = load_tracked_repos()
     tracked_missing = [t for t in tracked if not any(r["repo"] == t["repo"] for r in repos)]
-    if tracked_missing:
+    if tracked_missing and GITHUB_TOKEN:
         log(f"📡 补充获取 {len(tracked_missing)} 个追踪项目...")
         for t in tracked_missing:
             time.sleep(API_DELAY)
@@ -115,6 +116,8 @@ def fetch_trending_repos() -> list[dict]:
                 log(f"  ✅ {t['repo']}: {data['stargazers_count']} stars")
             else:
                 log(f"  ⚠️  无法获取 {t['repo']}")
+    elif tracked_missing:
+        log(f"ℹ️  无 GITHUB_TOKEN，跳过 {len(tracked_missing)} 个追踪项目的补充获取")
 
     log(f"📊 共获取 {len(repos)} 个项目")
     return repos
