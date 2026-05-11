@@ -12,6 +12,13 @@ import traceback
 from datetime import datetime, timedelta
 from pathlib import Path
 
+# 加载 .env 文件
+try:
+    from dotenv import load_dotenv
+    load_dotenv(Path(__file__).parent.parent / ".env")
+except ImportError:
+    pass
+
 # ── 配置 ──────────────────────────────────────────────
 DATA_DIR = Path("data")
 HISTORY_DIR = DATA_DIR / "history"
@@ -19,7 +26,7 @@ TRACKED_REPOS_FILE = DATA_DIR / "tracked_repos.json"
 LATEST_FILE = DATA_DIR / "latest.json"
 README_FILE = Path("README.md")
 
-# 从环境变量读取 GitHub Token（GitHub Actions 自动注入）
+# 从环境变量读取 GitHub Token
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "")
 
 # 每次 API 请求之间等待（秒），避免触发 rate limit

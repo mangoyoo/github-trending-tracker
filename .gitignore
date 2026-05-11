@@ -9,3 +9,4 @@ ENV/
 .DS_Store
 *.swp
 *.swo
+.env
