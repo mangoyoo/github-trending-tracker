@@ -1,11 +1,11 @@
 {
   "date": "2026-05-16",
-  "updated_at": "2026-05-16T06:18:27.249390",
+  "updated_at": "2026-05-16T08:08:01.572892",
   "snapshot": [
     {
       "repo": "freeCodeCamp/freeCodeCamp",
       "name": "freeCodeCamp",
-      "stars": 444836,
+      "stars": 444846,
       "language": "TypeScript",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
@@ -27,9 +27,9 @@
         "teachers"
       ],
       "created_at": "2014-12-24T17:49:19Z",
-      "updated_at": "2026-05-16T06:11:42Z",
+      "updated_at": "2026-05-16T07:57:09Z",
       "pushed_at": "2026-05-16T04:04:41Z",
-      "growth_24h": 83,
+      "growth_24h": 93,
       "growth_24h_percent": 0.02,
       "status": "TRACKING",
       "zh_intro": "免费编程学习平台，提供完整 Web 开发课程和证书"
@@ -37,7 +37,7 @@
     {
       "repo": "public-apis/public-apis",
       "name": "public-apis",
-      "stars": 435202,
+      "stars": 435213,
       "language": "Python",
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis",
@@ -57,9 +57,9 @@
         "software"
       ],
       "created_at": "2016-03-20T23:49:42Z",
-      "updated_at": "2026-05-16T06:08:31Z",
+      "updated_at": "2026-05-16T07:54:46Z",
       "pushed_at": "2026-05-15T15:50:51Z",
-      "growth_24h": 122,
+      "growth_24h": 133,
       "growth_24h_percent": 0.03,
       "status": "TRACKING",
       "zh_intro": "Python 项目：A collective list of free APIs"
@@ -67,7 +67,7 @@
     {
       "repo": "EbookFoundation/free-programming-books",
       "name": "free-programming-books",
-      "stars": 388384,
+      "stars": 388385,
       "language": "Python",
       "description": ":books: Freely available programming books",
       "url": "https://github.com/EbookFoundation/free-programming-books",
@@ -79,9 +79,9 @@
         "resource"
       ],
       "created_at": "2013-10-11T06:50:37Z",
-      "updated_at": "2026-05-16T06:03:06Z",
+      "updated_at": "2026-05-16T07:52:26Z",
       "pushed_at": "2026-05-12T18:22:15Z",
-      "growth_24h": 56,
+      "growth_24h": 57,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "免费编程书籍合集，涵盖多种语言和主题"
@@ -89,7 +89,7 @@
     {
       "repo": "openclaw/openclaw",
       "name": "openclaw",
-      "stars": 372244,
+      "stars": 372259,
       "language": "TypeScript",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
       "url": "https://github.com/openclaw/openclaw",
@@ -103,17 +103,17 @@
         "personal"
       ],
       "created_at": "2025-11-24T10:16:47Z",
-      "updated_at": "2026-05-16T06:16:51Z",
-      "pushed_at": "2026-05-16T06:16:39Z",
-      "growth_24h": 274,
-      "growth_24h_percent": 0.07,
+      "updated_at": "2026-05-16T08:06:51Z",
+      "pushed_at": "2026-05-16T08:07:16Z",
+      "growth_24h": 289,
+      "growth_24h_percent": 0.08,
       "status": "TRACKING",
       "zh_intro": "个人 AI 助手框架，多平台部署 🦞"
     },
     {
       "repo": "nilbuild/developer-roadmap",
       "name": "developer-roadmap",
-      "stars": 354826,
+      "stars": 354832,
       "language": "TypeScript",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "url": "https://github.com/nilbuild/developer-roadmap",
@@ -138,17 +138,17 @@
         "vue-roadmap"
       ],
       "created_at": "2017-03-15T13:45:52Z",
-      "updated_at": "2026-05-16T05:54:30Z",
+      "updated_at": "2026-05-16T08:05:11Z",
       "pushed_at": "2026-05-14T10:12:48Z",
-      "growth_24h": 48,
-      "growth_24h_percent": 0.01,
+      "growth_24h": 54,
+      "growth_24h_percent": 0.02,
       "status": "TRACKING",
       "zh_intro": "开发者学习路线图，帮助规划职业发展"
     },
     {
       "repo": "vinta/awesome-python",
       "name": "awesome-python",
-      "stars": 297872,
+      "stars": 297884,
       "language": "Python",
       "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
       "url": "https://github.com/vinta/awesome-python",
@@ -161,9 +161,9 @@
         "python-tools"
       ],
       "created_at": "2014-06-27T21:00:06Z",
-      "updated_at": "2026-05-16T05:57:53Z",
+      "updated_at": "2026-05-16T08:00:25Z",
       "pushed_at": "2026-05-12T02:36:10Z",
-      "growth_24h": 171,
+      "growth_24h": 183,
       "growth_24h_percent": 0.06,
       "status": "TRACKING",
       "zh_intro": "Python 精选资源与工具列表"
@@ -171,7 +171,7 @@
     {
       "repo": "awesome-selfhosted/awesome-selfhosted",
       "name": "awesome-selfhosted",
-      "stars": 292636,
+      "stars": 292662,
       "language": "Unknown",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
@@ -186,9 +186,9 @@
         "selfhosted"
       ],
       "created_at": "2015-06-01T02:33:17Z",
-      "updated_at": "2026-05-16T06:11:11Z",
+      "updated_at": "2026-05-16T08:04:14Z",
       "pushed_at": "2026-05-12T12:52:31Z",
-      "growth_24h": 338,
+      "growth_24h": 364,
       "growth_24h_percent": 0.12,
       "status": "TRACKING",
       "zh_intro": "Selfhosted 精选资源列表"
@@ -196,7 +196,7 @@
     {
       "repo": "facebook/react",
       "name": "react",
-      "stars": 245047,
+      "stars": 245048,
       "language": "JavaScript",
       "description": "The library for web and native user interfaces.",
       "url": "https://github.com/facebook/react",
@@ -209,9 +209,9 @@
         "ui"
       ],
       "created_at": "2013-05-24T16:15:54Z",
-      "updated_at": "2026-05-16T06:03:30Z",
+      "updated_at": "2026-05-16T06:54:34Z",
       "pushed_at": "2026-05-14T20:03:52Z",
-      "growth_24h": 14,
+      "growth_24h": 15,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "Facebook 出品的 JavaScript UI 库"
@@ -219,23 +219,23 @@
     {
       "repo": "torvalds/linux",
       "name": "linux",
-      "stars": 233351,
+      "stars": 233356,
       "language": "C",
       "description": "Linux kernel source tree",
       "url": "https://github.com/torvalds/linux",
       "topics": [],
       "created_at": "2011-09-04T22:48:12Z",
-      "updated_at": "2026-05-16T05:53:51Z",
+      "updated_at": "2026-05-16T07:53:44Z",
       "pushed_at": "2026-05-16T00:05:29Z",
-      "growth_24h": 102,
-      "growth_24h_percent": 0.04,
+      "growth_24h": 107,
+      "growth_24h_percent": 0.05,
       "status": "TRACKING",
       "zh_intro": "Linux 操作系统内核"
     },
     {
       "repo": "tensorflow/tensorflow",
       "name": "tensorflow",
-      "stars": 195116,
+      "stars": 195117,
       "language": "C++",
       "description": "An Open Source Machine Learning Framework for Everyone",
       "url": "https://github.com/tensorflow/tensorflow",
@@ -250,9 +250,9 @@
         "tensorflow"
       ],
       "created_at": "2015-11-07T01:19:20Z",
-      "updated_at": "2026-05-16T06:03:28Z",
-      "pushed_at": "2026-05-16T05:27:24Z",
-      "growth_24h": 1,
+      "updated_at": "2026-05-16T07:14:49Z",
+      "pushed_at": "2026-05-16T08:04:59Z",
+      "growth_24h": 2,
       "growth_24h_percent": 0.0,
       "status": "TRACKING",
       "zh_intro": "Google 的机器学习框架"
@@ -260,31 +260,31 @@
     {
       "repo": "obra/superpowers",
       "name": "superpowers",
-      "stars": 193093,
+      "stars": 193215,
       "language": "Shell",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "topics": [],
       "created_at": "2025-10-09T19:45:18Z",
-      "updated_at": "2026-05-16T06:17:13Z",
+      "updated_at": "2026-05-16T08:06:44Z",
       "pushed_at": "2026-05-14T23:32:25Z",
-      "growth_24h": 1429,
-      "growth_24h_percent": 0.75,
+      "growth_24h": 1551,
+      "growth_24h_percent": 0.81,
       "status": "TRACKING",
       "zh_intro": "Shell 项目：An agentic skills framework & software development methodology that works."
     },
     {
       "repo": "ultraworkers/claw-code",
       "name": "claw-code",
-      "stars": 191616,
+      "stars": 191626,
       "language": "Rust",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
       "url": "https://github.com/ultraworkers/claw-code",
       "topics": [],
       "created_at": "2026-03-31T08:58:08Z",
-      "updated_at": "2026-05-16T06:09:03Z",
+      "updated_at": "2026-05-16T08:03:31Z",
       "pushed_at": "2026-05-15T04:41:31Z",
-      "growth_24h": 130,
+      "growth_24h": 140,
       "growth_24h_percent": 0.07,
       "status": "TRACKING",
       "zh_intro": "AI 驱动的代码编辑助手"
@@ -292,7 +292,7 @@
     {
       "repo": "n8n-io/n8n",
       "name": "n8n",
-      "stars": 188038,
+      "stars": 188042,
       "language": "TypeScript",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "url": "https://github.com/n8n-io/n8n",
@@ -319,9 +319,9 @@
         "workflow-automation"
       ],
       "created_at": "2019-06-22T09:24:21Z",
-      "updated_at": "2026-05-16T06:09:09Z",
-      "pushed_at": "2026-05-16T00:17:30Z",
-      "growth_24h": 117,
+      "updated_at": "2026-05-16T08:01:17Z",
+      "pushed_at": "2026-05-16T07:21:25Z",
+      "growth_24h": 121,
       "growth_24h_percent": 0.06,
       "status": "TRACKING",
       "zh_intro": "开源工作流自动化工具"
@@ -351,7 +351,7 @@
         "zsh-configuration"
       ],
       "created_at": "2009-08-28T18:15:37Z",
-      "updated_at": "2026-05-16T06:10:48Z",
+      "updated_at": "2026-05-16T08:02:26Z",
       "pushed_at": "2026-05-11T09:00:29Z",
       "growth_24h": 14,
       "growth_24h_percent": 0.01,
@@ -361,7 +361,7 @@
     {
       "repo": "microsoft/vscode",
       "name": "vscode",
-      "stars": 184965,
+      "stars": 184970,
       "language": "TypeScript",
       "description": "Visual Studio Code",
       "url": "https://github.com/microsoft/vscode",
@@ -373,17 +373,17 @@
         "visual-studio-code"
       ],
       "created_at": "2015-09-03T20:23:38Z",
-      "updated_at": "2026-05-16T06:03:30Z",
-      "pushed_at": "2026-05-16T05:49:29Z",
-      "growth_24h": 25,
-      "growth_24h_percent": 0.01,
+      "updated_at": "2026-05-16T07:52:03Z",
+      "pushed_at": "2026-05-16T07:16:03Z",
+      "growth_24h": 30,
+      "growth_24h_percent": 0.02,
       "status": "TRACKING",
       "zh_intro": "微软开发的免费代码编辑器"
     },
     {
       "repo": "Significant-Gravitas/AutoGPT",
       "name": "AutoGPT",
-      "stars": 184340,
+      "stars": 184342,
       "language": "Python",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
@@ -401,9 +401,9 @@
         "python"
       ],
       "created_at": "2023-03-16T09:21:07Z",
-      "updated_at": "2026-05-16T05:59:28Z",
+      "updated_at": "2026-05-16T07:18:18Z",
       "pushed_at": "2026-05-15T23:43:01Z",
-      "growth_24h": 24,
+      "growth_24h": 26,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "自主 AI 智能体，可自动完成复杂任务"
@@ -411,7 +411,7 @@
     {
       "repo": "affaan-m/everything-claude-code",
       "name": "everything-claude-code",
-      "stars": 183719,
+      "stars": 183847,
       "language": "JavaScript",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/everything-claude-code",
@@ -426,17 +426,17 @@
         "productivity"
       ],
       "created_at": "2026-01-18T00:51:51Z",
-      "updated_at": "2026-05-16T06:17:49Z",
-      "pushed_at": "2026-05-16T06:03:46Z",
-      "growth_24h": 1225,
-      "growth_24h_percent": 0.67,
+      "updated_at": "2026-05-16T08:07:19Z",
+      "pushed_at": "2026-05-16T07:50:32Z",
+      "growth_24h": 1353,
+      "growth_24h_percent": 0.74,
       "status": "TRACKING",
       "zh_intro": "JavaScript 项目：The agent harness performance optimization system. Skills, instincts, memory, security, and research"
     },
     {
       "repo": "flutter/flutter",
       "name": "flutter",
-      "stars": 176330,
+      "stars": 176329,
       "language": "Dart",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "url": "https://github.com/flutter/flutter",
@@ -462,9 +462,9 @@
         "windows"
       ],
       "created_at": "2015-03-06T22:54:58Z",
-      "updated_at": "2026-05-16T06:07:50Z",
-      "pushed_at": "2026-05-16T06:07:50Z",
-      "growth_24h": 5,
+      "updated_at": "2026-05-16T07:39:10Z",
+      "pushed_at": "2026-05-16T07:21:03Z",
+      "growth_24h": 4,
       "growth_24h_percent": 0.0,
       "status": "TRACKING",
       "zh_intro": "Google 的跨平台 UI 工具包"
@@ -472,7 +472,7 @@
     {
       "repo": "twbs/bootstrap",
       "name": "bootstrap",
-      "stars": 174235,
+      "stars": 174236,
       "language": "MDX",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "url": "https://github.com/twbs/bootstrap",
@@ -486,9 +486,9 @@
         "scss"
       ],
       "created_at": "2011-07-29T21:19:00Z",
-      "updated_at": "2026-05-16T05:43:13Z",
+      "updated_at": "2026-05-16T07:46:35Z",
       "pushed_at": "2026-05-15T05:32:01Z",
-      "growth_24h": -5,
+      "growth_24h": -4,
       "growth_24h_percent": -0.0,
       "status": "TRACKING",
       "zh_intro": "流行的前端 CSS 框架"
@@ -515,7 +515,7 @@
     {
       "repo": "avelino/awesome-go",
       "name": "awesome-go",
-      "stars": 172765,
+      "stars": 172769,
       "language": "Go",
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "url": "https://github.com/avelino/awesome-go",
@@ -528,9 +528,9 @@
         "hacktoberfest"
       ],
       "created_at": "2014-07-06T13:42:15Z",
-      "updated_at": "2026-05-16T06:17:19Z",
+      "updated_at": "2026-05-16T08:00:46Z",
       "pushed_at": "2026-05-14T20:57:41Z",
-      "growth_24h": 81,
+      "growth_24h": 85,
       "growth_24h_percent": 0.05,
       "status": "TRACKING",
       "zh_intro": "Go 语言精选资源列表"
@@ -538,7 +538,7 @@
     {
       "repo": "ollama/ollama",
       "name": "ollama",
-      "stars": 171483,
+      "stars": 171487,
       "language": "Go",
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "url": "https://github.com/ollama/ollama",
@@ -560,17 +560,17 @@
         "qwen"
       ],
       "created_at": "2023-06-26T19:39:32Z",
-      "updated_at": "2026-05-16T05:59:44Z",
+      "updated_at": "2026-05-16T07:56:09Z",
       "pushed_at": "2026-05-15T23:23:55Z",
-      "growth_24h": 59,
-      "growth_24h_percent": 0.03,
+      "growth_24h": 63,
+      "growth_24h_percent": 0.04,
       "status": "TRACKING",
       "zh_intro": "本地运行大语言模型的工具"
     },
     {
       "repo": "yt-dlp/yt-dlp",
       "name": "yt-dlp",
-      "stars": 162482,
+      "stars": 162497,
       "language": "Python",
       "description": "A feature-rich command-line audio/video downloader",
       "url": "https://github.com/yt-dlp/yt-dlp",
@@ -584,7 +584,7 @@
         "yt-dlp"
       ],
       "created_at": "2020-10-26T04:22:55Z",
-      "updated_at": "2026-05-16T06:09:08Z",
+      "updated_at": "2026-05-16T08:06:19Z",
       "pushed_at": "2026-05-16T00:24:12Z",
       "growth_24h": 0,
       "growth_24h_percent": 0.0,
@@ -594,7 +594,7 @@
     {
       "repo": "f/prompts.chat",
       "name": "prompts.chat",
-      "stars": 162313,
+      "stars": 162320,
       "language": "HTML",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "url": "https://github.com/f/prompts.chat",
@@ -619,9 +619,9 @@
         "typescript"
       ],
       "created_at": "2022-12-05T13:54:13Z",
-      "updated_at": "2026-05-16T06:00:11Z",
+      "updated_at": "2026-05-16T08:01:07Z",
       "pushed_at": "2026-05-16T04:17:15Z",
-      "growth_24h": 59,
+      "growth_24h": 66,
       "growth_24h_percent": 0.04,
       "status": "TRACKING",
       "zh_intro": "HTML 项目：f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and op"
@@ -629,23 +629,23 @@
     {
       "repo": "anomalyco/opencode",
       "name": "opencode",
-      "stars": 160933,
+      "stars": 160985,
       "language": "TypeScript",
       "description": "The open source coding agent.",
       "url": "https://github.com/anomalyco/opencode",
       "topics": [],
       "created_at": "2025-04-30T20:08:00Z",
-      "updated_at": "2026-05-16T06:16:13Z",
-      "pushed_at": "2026-05-16T05:56:50Z",
-      "growth_24h": 483,
-      "growth_24h_percent": 0.3,
+      "updated_at": "2026-05-16T08:06:27Z",
+      "pushed_at": "2026-05-16T07:56:49Z",
+      "growth_24h": 535,
+      "growth_24h_percent": 0.33,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：The open source coding agent."
     },
     {
       "repo": "huggingface/transformers",
       "name": "transformers",
-      "stars": 160646,
+      "stars": 160648,
       "language": "Python",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "url": "https://github.com/huggingface/transformers",
@@ -671,9 +671,9 @@
         "vlm"
       ],
       "created_at": "2018-10-29T13:56:00Z",
-      "updated_at": "2026-05-16T05:58:27Z",
+      "updated_at": "2026-05-16T07:55:13Z",
       "pushed_at": "2026-05-15T20:21:30Z",
-      "growth_24h": 15,
+      "growth_24h": 17,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "Python 项目：🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,"
@@ -681,7 +681,7 @@
     {
       "repo": "Snailclimb/JavaGuide",
       "name": "JavaGuide",
-      "stars": 155710,
+      "stars": 155712,
       "language": "JavaScript",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
       "url": "https://github.com/Snailclimb/JavaGuide",
@@ -701,9 +701,9 @@
         "system-design"
       ],
       "created_at": "2018-05-07T13:27:00Z",
-      "updated_at": "2026-05-16T05:57:38Z",
+      "updated_at": "2026-05-16T08:05:16Z",
       "pushed_at": "2026-05-15T09:27:50Z",
-      "growth_24h": 18,
+      "growth_24h": 20,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "JavaScript 项目：Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发"
@@ -711,7 +711,7 @@
     {
       "repo": "NousResearch/hermes-agent",
       "name": "hermes-agent",
-      "stars": 152357,
+      "stars": 152470,
       "language": "Python",
       "description": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
@@ -734,17 +734,17 @@
         "openclaw"
       ],
       "created_at": "2025-07-22T22:22:28Z",
-      "updated_at": "2026-05-16T06:16:21Z",
-      "pushed_at": "2026-05-16T06:06:56Z",
-      "growth_24h": 1486,
-      "growth_24h_percent": 0.98,
+      "updated_at": "2026-05-16T08:07:16Z",
+      "pushed_at": "2026-05-16T08:04:30Z",
+      "growth_24h": 1599,
+      "growth_24h_percent": 1.06,
       "status": "TRACKING",
       "zh_intro": "Python 项目：The agent that grows with you"
     },
     {
       "repo": "langflow-ai/langflow",
       "name": "langflow",
-      "stars": 148155,
+      "stars": 148164,
       "language": "Python",
       "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
       "url": "https://github.com/langflow-ai/langflow",
@@ -757,17 +757,17 @@
         "react-flow"
       ],
       "created_at": "2023-02-08T22:28:03Z",
-      "updated_at": "2026-05-16T06:11:25Z",
+      "updated_at": "2026-05-16T08:07:17Z",
       "pushed_at": "2026-05-16T04:24:45Z",
-      "growth_24h": 50,
-      "growth_24h_percent": 0.03,
+      "growth_24h": 59,
+      "growth_24h_percent": 0.04,
       "status": "TRACKING",
       "zh_intro": "Python 项目：Langflow is a powerful tool for building and deploying AI-powered agents and workflows."
     },
     {
       "repo": "Genymobile/scrcpy",
       "name": "scrcpy",
-      "stars": 141701,
+      "stars": 141706,
       "language": "C",
       "description": "Display and control your Android device",
       "url": "https://github.com/Genymobile/scrcpy",
@@ -782,17 +782,17 @@
         "sdl2"
       ],
       "created_at": "2017-11-21T18:00:27Z",
-      "updated_at": "2026-05-16T06:09:22Z",
+      "updated_at": "2026-05-16T07:48:04Z",
       "pushed_at": "2026-05-12T19:47:51Z",
-      "growth_24h": 190,
-      "growth_24h_percent": 0.13,
+      "growth_24h": 195,
+      "growth_24h_percent": 0.14,
       "status": "TRACKING",
       "zh_intro": "C 项目：Display and control your Android device"
     },
     {
       "repo": "langgenius/dify",
       "name": "dify",
-      "stars": 141534,
+      "stars": 141539,
       "language": "TypeScript",
       "description": "Production-ready platform for agentic workflow development.",
       "url": "https://github.com/langgenius/dify",
@@ -819,9 +819,9 @@
         "workflow"
       ],
       "created_at": "2023-04-12T07:40:24Z",
-      "updated_at": "2026-05-16T06:08:41Z",
+      "updated_at": "2026-05-16T07:48:10Z",
       "pushed_at": "2026-05-16T06:05:44Z",
-      "growth_24h": 99,
+      "growth_24h": 104,
       "growth_24h_percent": 0.07,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：Production-ready platform for agentic workflow development."
@@ -829,7 +829,7 @@
     {
       "repo": "vercel/next.js",
       "name": "next.js",
-      "stars": 139488,
+      "stars": 139489,
       "language": "JavaScript",
       "description": "The React Framework",
       "url": "https://github.com/vercel/next.js",
@@ -850,9 +850,9 @@
         "vercel"
       ],
       "created_at": "2016-10-05T23:32:51Z",
-      "updated_at": "2026-05-16T06:04:08Z",
+      "updated_at": "2026-05-16T07:59:53Z",
       "pushed_at": "2026-05-16T02:06:49Z",
-      "growth_24h": 12,
+      "growth_24h": 13,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "JavaScript 项目：The React Framework"
@@ -887,7 +887,7 @@
         "windsurf-ai"
       ],
       "created_at": "2025-03-05T16:38:29Z",
-      "updated_at": "2026-05-16T06:00:06Z",
+      "updated_at": "2026-05-16T07:49:59Z",
       "pushed_at": "2026-05-10T15:03:26Z",
       "growth_24h": 58,
       "growth_24h_percent": 0.04,
@@ -897,7 +897,7 @@
     {
       "repo": "open-webui/open-webui",
       "name": "open-webui",
-      "stars": 137258,
+      "stars": 137266,
       "language": "Python",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "url": "https://github.com/open-webui/open-webui",
@@ -919,17 +919,17 @@
         "webui"
       ],
       "created_at": "2023-10-06T22:08:27Z",
-      "updated_at": "2026-05-16T06:10:44Z",
+      "updated_at": "2026-05-16T07:50:44Z",
       "pushed_at": "2026-05-15T00:34:23Z",
-      "growth_24h": 130,
-      "growth_24h_percent": 0.09,
+      "growth_24h": 138,
+      "growth_24h_percent": 0.1,
       "status": "TRACKING",
       "zh_intro": "Python 项目：User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
     },
     {
       "repo": "langchain-ai/langchain",
       "name": "langchain",
-      "stars": 136841,
+      "stars": 136847,
       "language": "Python",
       "description": "The agent engineering platform.",
       "url": "https://github.com/langchain-ai/langchain",
@@ -956,9 +956,9 @@
         "typescript"
       ],
       "created_at": "2022-10-17T02:58:36Z",
-      "updated_at": "2026-05-16T06:07:30Z",
+      "updated_at": "2026-05-16T08:06:39Z",
       "pushed_at": "2026-05-16T02:23:09Z",
-      "growth_24h": 68,
+      "growth_24h": 74,
       "growth_24h_percent": 0.05,
       "status": "TRACKING",
       "zh_intro": "Python 项目：The agent engineering platform."
@@ -966,7 +966,7 @@
     {
       "repo": "anthropics/skills",
       "name": "skills",
-      "stars": 135363,
+      "stars": 135440,
       "language": "Python",
       "description": "Public repository for Agent Skills",
       "url": "https://github.com/anthropics/skills",
@@ -974,17 +974,17 @@
         "agent-skills"
       ],
       "created_at": "2025-09-22T15:53:31Z",
-      "updated_at": "2026-05-16T06:15:26Z",
+      "updated_at": "2026-05-16T08:07:09Z",
       "pushed_at": "2026-05-15T23:39:53Z",
-      "growth_24h": 908,
-      "growth_24h_percent": 0.68,
+      "growth_24h": 985,
+      "growth_24h_percent": 0.73,
       "status": "TRACKING",
       "zh_intro": "Python 项目：Public repository for Agent Skills"
     },
     {
       "repo": "golang/go",
       "name": "go",
-      "stars": 133902,
+      "stars": 133903,
       "language": "Go",
       "description": "The Go programming language",
       "url": "https://github.com/golang/go",
@@ -995,9 +995,9 @@
         "programming-language"
       ],
       "created_at": "2014-08-19T04:33:40Z",
-      "updated_at": "2026-05-16T05:46:09Z",
+      "updated_at": "2026-05-16T07:42:00Z",
       "pushed_at": "2026-05-15T23:24:01Z",
-      "growth_24h": 19,
+      "growth_24h": 20,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "Go 项目：The Go programming language"
@@ -1024,7 +1024,7 @@
         "windows-11"
       ],
       "created_at": "2019-05-01T17:44:02Z",
-      "updated_at": "2026-05-16T05:58:33Z",
+      "updated_at": "2026-05-16T08:06:05Z",
       "pushed_at": "2026-05-16T03:29:13Z",
       "growth_24h": 34,
       "growth_24h_percent": 0.03,
@@ -1089,23 +1089,23 @@
     {
       "repo": "anthropics/claude-code",
       "name": "claude-code",
-      "stars": 123974,
+      "stars": 123995,
       "language": "Shell",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
       "url": "https://github.com/anthropics/claude-code",
       "topics": [],
       "created_at": "2025-02-22T17:41:21Z",
-      "updated_at": "2026-05-16T06:08:56Z",
+      "updated_at": "2026-05-16T08:05:32Z",
       "pushed_at": "2026-05-15T22:28:22Z",
-      "growth_24h": 289,
-      "growth_24h_percent": 0.23,
+      "growth_24h": 310,
+      "growth_24h_percent": 0.25,
       "status": "TRACKING",
       "zh_intro": "Shell 项目：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he"
     },
     {
       "repo": "excalidraw/excalidraw",
       "name": "excalidraw",
-      "stars": 123314,
+      "stars": 123324,
       "language": "TypeScript",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
       "url": "https://github.com/excalidraw/excalidraw",
@@ -1119,17 +1119,17 @@
         "whiteboard"
       ],
       "created_at": "2020-01-02T01:04:43Z",
-      "updated_at": "2026-05-16T06:01:19Z",
+      "updated_at": "2026-05-16T07:51:31Z",
       "pushed_at": "2026-05-14T20:45:05Z",
-      "growth_24h": 62,
-      "growth_24h_percent": 0.05,
+      "growth_24h": 72,
+      "growth_24h_percent": 0.06,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：Virtual whiteboard for sketching hand-drawn like diagrams"
     },
     {
       "repo": "ripienaar/free-for-dev",
       "name": "free-for-dev",
-      "stars": 122376,
+      "stars": 122373,
       "language": "HTML",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "url": "https://github.com/ripienaar/free-for-dev",
@@ -1138,17 +1138,17 @@
         "free-for-developers"
       ],
       "created_at": "2015-03-18T21:06:26Z",
-      "updated_at": "2026-05-16T05:55:43Z",
+      "updated_at": "2026-05-16T07:55:22Z",
       "pushed_at": "2026-05-15T20:07:17Z",
-      "growth_24h": 44,
-      "growth_24h_percent": 0.04,
+      "growth_24h": 41,
+      "growth_24h_percent": 0.03,
       "status": "TRACKING",
       "zh_intro": "HTML 项目：A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
     },
     {
       "repo": "kubernetes/kubernetes",
       "name": "kubernetes",
-      "stars": 122287,
+      "stars": 122288,
       "language": "Go",
       "description": "Production-Grade Container Scheduling and Management",
       "url": "https://github.com/kubernetes/kubernetes",
@@ -1159,9 +1159,9 @@
         "kubernetes"
       ],
       "created_at": "2014-06-06T22:56:04Z",
-      "updated_at": "2026-05-16T06:03:32Z",
+      "updated_at": "2026-05-16T07:24:20Z",
       "pushed_at": "2026-05-16T02:12:27Z",
-      "growth_24h": 17,
+      "growth_24h": 18,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "Go 项目：Production-Grade Container Scheduling and Management"
@@ -1169,7 +1169,7 @@
     {
       "repo": "electron/electron",
       "name": "electron",
-      "stars": 121295,
+      "stars": 121294,
       "language": "C++",
       "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
       "url": "https://github.com/electron/electron",
@@ -1185,9 +1185,9 @@
         "works-with-codespaces"
       ],
       "created_at": "2013-04-12T01:47:36Z",
-      "updated_at": "2026-05-16T05:57:23Z",
+      "updated_at": "2026-05-16T06:37:22Z",
       "pushed_at": "2026-05-16T05:26:36Z",
-      "growth_24h": 11,
+      "growth_24h": 10,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "C++ 项目：:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
@@ -1195,7 +1195,7 @@
     {
       "repo": "firecrawl/firecrawl",
       "name": "firecrawl",
-      "stars": 120378,
+      "stars": 120411,
       "language": "TypeScript",
       "description": "🔥 Search, scrape, and clean the web for AI agents.",
       "url": "https://github.com/firecrawl/firecrawl",
@@ -1221,17 +1221,17 @@
         "webscraping"
       ],
       "created_at": "2024-04-15T21:02:29Z",
-      "updated_at": "2026-05-16T06:10:47Z",
-      "pushed_at": "2026-05-15T22:04:57Z",
-      "growth_24h": 394,
-      "growth_24h_percent": 0.33,
+      "updated_at": "2026-05-16T08:07:11Z",
+      "pushed_at": "2026-05-16T06:54:36Z",
+      "growth_24h": 427,
+      "growth_24h_percent": 0.36,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：🔥 Search, scrape, and clean the web for AI agents."
     },
     {
       "repo": "clash-verge-rev/clash-verge-rev",
       "name": "clash-verge-rev",
-      "stars": 118394,
+      "stars": 118413,
       "language": "TypeScript",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
@@ -1246,17 +1246,17 @@
         "windows"
       ],
       "created_at": "2023-11-21T18:24:03Z",
-      "updated_at": "2026-05-16T06:00:21Z",
+      "updated_at": "2026-05-16T08:05:10Z",
       "pushed_at": "2026-05-16T01:07:22Z",
-      "growth_24h": 194,
-      "growth_24h_percent": 0.16,
+      "growth_24h": 213,
+      "growth_24h_percent": 0.18,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy e"
     },
     {
       "repo": "nodejs/node",
       "name": "node",
-      "stars": 117236,
+      "stars": 117239,
       "language": "JavaScript",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "url": "https://github.com/nodejs/node",
@@ -1272,9 +1272,9 @@
         "windows"
       ],
       "created_at": "2014-11-26T19:57:11Z",
-      "updated_at": "2026-05-16T06:04:07Z",
+      "updated_at": "2026-05-16T07:43:16Z",
       "pushed_at": "2026-05-16T04:21:29Z",
-      "growth_24h": 18,
+      "growth_24h": 21,
       "growth_24h_percent": 0.02,
       "status": "TRACKING",
       "zh_intro": "JavaScript 项目：Node.js JavaScript runtime ✨🐢🚀✨"
@@ -1282,7 +1282,7 @@
     {
       "repo": "iptv-org/iptv",
       "name": "iptv",
-      "stars": 116239,
+      "stars": 116241,
       "language": "TypeScript",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "url": "https://github.com/iptv-org/iptv",
@@ -1294,9 +1294,9 @@
         "tv"
       ],
       "created_at": "2018-11-14T22:00:57Z",
-      "updated_at": "2026-05-16T06:02:26Z",
+      "updated_at": "2026-05-16T06:41:45Z",
       "pushed_at": "2026-05-16T00:30:48Z",
-      "growth_24h": 22,
+      "growth_24h": 24,
       "growth_24h_percent": 0.02,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：Collection of publicly available IPTV channels from all over the world"
@@ -1304,7 +1304,7 @@
     {
       "repo": "shadcn-ui/ui",
       "name": "ui",
-      "stars": 114455,
+      "stars": 114460,
       "language": "TypeScript",
       "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
       "url": "https://github.com/shadcn-ui/ui",
@@ -1322,17 +1322,17 @@
         "vite"
       ],
       "created_at": "2023-01-04T12:43:27Z",
-      "updated_at": "2026-05-16T06:17:36Z",
+      "updated_at": "2026-05-16T07:53:55Z",
       "pushed_at": "2026-05-14T11:46:18Z",
-      "growth_24h": 72,
-      "growth_24h_percent": 0.06,
+      "growth_24h": 77,
+      "growth_24h_percent": 0.07,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：A set of beautifully-designed, accessible components and a code distribution platform. Works with yo"
     },
     {
       "repo": "rustdesk/rustdesk",
       "name": "rustdesk",
-      "stars": 114302,
+      "stars": 114311,
       "language": "Rust",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "url": "https://github.com/rustdesk/rustdesk",
@@ -1358,17 +1358,17 @@
         "windows"
       ],
       "created_at": "2020-09-28T15:36:08Z",
-      "updated_at": "2026-05-16T05:58:51Z",
-      "pushed_at": "2026-05-16T04:07:25Z",
-      "growth_24h": 85,
-      "growth_24h_percent": 0.07,
+      "updated_at": "2026-05-16T07:44:25Z",
+      "pushed_at": "2026-05-16T06:41:34Z",
+      "growth_24h": 94,
+      "growth_24h_percent": 0.08,
       "status": "TRACKING",
       "zh_intro": "Rust 项目：An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer"
     },
     {
       "repo": "Comfy-Org/ComfyUI",
       "name": "ComfyUI",
-      "stars": 113100,
+      "stars": 113108,
       "language": "Python",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "url": "https://github.com/Comfy-Org/ComfyUI",
@@ -1381,9 +1381,9 @@
         "stable-diffusion"
       ],
       "created_at": "2023-01-17T03:15:56Z",
-      "updated_at": "2026-05-16T06:00:28Z",
-      "pushed_at": "2026-05-16T05:52:17Z",
-      "growth_24h": 130,
+      "updated_at": "2026-05-16T08:02:08Z",
+      "pushed_at": "2026-05-16T07:02:57Z",
+      "growth_24h": 138,
       "growth_24h_percent": 0.12,
       "status": "TRACKING",
       "zh_intro": "Python 项目：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
@@ -1391,7 +1391,7 @@
     {
       "repo": "rust-lang/rust",
       "name": "rust",
-      "stars": 112805,
+      "stars": 112804,
       "language": "Rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "url": "https://github.com/rust-lang/rust",
@@ -1401,9 +1401,9 @@
         "rust"
       ],
       "created_at": "2010-06-16T20:39:03Z",
-      "updated_at": "2026-05-16T06:04:36Z",
-      "pushed_at": "2026-05-16T04:50:07Z",
-      "growth_24h": 31,
+      "updated_at": "2026-05-16T07:42:12Z",
+      "pushed_at": "2026-05-16T06:39:12Z",
+      "growth_24h": 30,
       "growth_24h_percent": 0.03,
       "status": "TRACKING",
       "zh_intro": "Rust 项目：Empowering everyone to build reliable and efficient software."
@@ -1440,7 +1440,7 @@
     {
       "repo": "microsoft/generative-ai-for-beginners",
       "name": "generative-ai-for-beginners",
-      "stars": 110853,
+      "stars": 110856,
       "language": "Jupyter Notebook",
       "description": "21 Lessons, Get Started Building with Generative AI ",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
@@ -1461,9 +1461,9 @@
         "transformers"
       ],
       "created_at": "2023-06-19T16:28:59Z",
-      "updated_at": "2026-05-16T06:10:25Z",
+      "updated_at": "2026-05-16T08:01:32Z",
       "pushed_at": "2026-05-14T03:44:00Z",
-      "growth_24h": 31,
+      "growth_24h": 34,
       "growth_24h_percent": 0.03,
       "status": "TRACKING",
       "zh_intro": "Jupyter Notebook 项目：21 Lessons, Get Started Building with Generative AI "
@@ -1471,7 +1471,7 @@
     {
       "repo": "godotengine/godot",
       "name": "godot",
-      "stars": 110753,
+      "stars": 110760,
       "language": "C++",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "url": "https://github.com/godotengine/godot",
@@ -1485,9 +1485,9 @@
         "open-source"
       ],
       "created_at": "2014-01-04T16:05:36Z",
-      "updated_at": "2026-05-16T06:03:00Z",
+      "updated_at": "2026-05-16T07:55:34Z",
       "pushed_at": "2026-05-15T20:49:42Z",
-      "growth_24h": 41,
+      "growth_24h": 48,
       "growth_24h_percent": 0.04,
       "status": "TRACKING",
       "zh_intro": "C++ 项目：Godot Engine – Multi-platform 2D and 3D game engine"
@@ -1495,7 +1495,7 @@
     {
       "repo": "Shubhamsaboo/awesome-llm-apps",
       "name": "awesome-llm-apps",
-      "stars": 110500,
+      "stars": 110519,
       "language": "Python",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
@@ -1506,17 +1506,17 @@
         "rag"
       ],
       "created_at": "2024-04-29T05:30:25Z",
-      "updated_at": "2026-05-16T06:08:12Z",
+      "updated_at": "2026-05-16T07:58:51Z",
       "pushed_at": "2026-05-09T20:59:06Z",
-      "growth_24h": 171,
-      "growth_24h_percent": 0.15,
+      "growth_24h": 190,
+      "growth_24h_percent": 0.17,
       "status": "TRACKING",
       "zh_intro": "Llm-Apps 精选资源列表"
     },
     {
       "repo": "ggml-org/llama.cpp",
       "name": "llama.cpp",
-      "stars": 110344,
+      "stars": 110355,
       "language": "C++",
       "description": "LLM inference in C/C++",
       "url": "https://github.com/ggml-org/llama.cpp",
@@ -1524,10 +1524,10 @@
         "ggml"
       ],
       "created_at": "2023-03-10T18:58:00Z",
-      "updated_at": "2026-05-16T06:13:10Z",
+      "updated_at": "2026-05-16T07:59:24Z",
       "pushed_at": "2026-05-16T02:21:24Z",
-      "growth_24h": 150,
-      "growth_24h_percent": 0.14,
+      "growth_24h": 161,
+      "growth_24h_percent": 0.15,
       "status": "TRACKING",
       "zh_intro": "C++ 项目：LLM inference in C/C++"
     },
@@ -1556,7 +1556,7 @@
     {
       "repo": "denoland/deno",
       "name": "deno",
-      "stars": 106724,
+      "stars": 106726,
       "language": "Rust",
       "description": "A modern runtime for JavaScript and TypeScript.",
       "url": "https://github.com/denoland/deno",
@@ -1567,9 +1567,9 @@
         "typescript"
       ],
       "created_at": "2018-05-15T01:34:26Z",
-      "updated_at": "2026-05-16T06:01:58Z",
+      "updated_at": "2026-05-16T07:54:11Z",
       "pushed_at": "2026-05-15T23:34:50Z",
-      "growth_24h": 17,
+      "growth_24h": 19,
       "growth_24h_percent": 0.02,
       "status": "TRACKING",
       "zh_intro": "Rust 项目：A modern runtime for JavaScript and TypeScript."
@@ -1577,7 +1577,7 @@
     {
       "repo": "tauri-apps/tauri",
       "name": "tauri",
-      "stars": 106681,
+      "stars": 106683,
       "language": "Rust",
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "url": "https://github.com/tauri-apps/tauri",
@@ -1591,9 +1591,9 @@
         "webview"
       ],
       "created_at": "2019-07-13T09:09:37Z",
-      "updated_at": "2026-05-16T05:58:35Z",
+      "updated_at": "2026-05-16T08:06:10Z",
       "pushed_at": "2026-05-16T02:01:03Z",
-      "growth_24h": 40,
+      "growth_24h": 42,
       "growth_24h_percent": 0.04,
       "status": "TRACKING",
       "zh_intro": "Rust 项目：Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
@@ -1601,7 +1601,7 @@
     {
       "repo": "fatedier/frp",
       "name": "frp",
-      "stars": 106557,
+      "stars": 106560,
       "language": "Go",
       "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
       "url": "https://github.com/fatedier/frp",
@@ -1618,9 +1618,9 @@
         "tunnel"
       ],
       "created_at": "2015-12-21T15:24:59Z",
-      "updated_at": "2026-05-16T05:42:10Z",
+      "updated_at": "2026-05-16T07:53:09Z",
       "pushed_at": "2026-05-12T03:13:50Z",
-      "growth_24h": 20,
+      "growth_24h": 23,
       "growth_24h_percent": 0.02,
       "status": "TRACKING",
       "zh_intro": "Go 项目：A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
@@ -1628,7 +1628,7 @@
     {
       "repo": "2dust/v2rayN",
       "name": "v2rayN",
-      "stars": 105732,
+      "stars": 105742,
       "language": "C#",
       "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
       "url": "https://github.com/2dust/v2rayN",
@@ -1646,17 +1646,17 @@
         "xtls"
       ],
       "created_at": "2019-07-30T03:47:24Z",
-      "updated_at": "2026-05-16T05:37:31Z",
+      "updated_at": "2026-05-16T07:47:00Z",
       "pushed_at": "2026-05-15T07:09:17Z",
-      "growth_24h": 95,
-      "growth_24h_percent": 0.09,
+      "growth_24h": 105,
+      "growth_24h_percent": 0.1,
       "status": "TRACKING",
       "zh_intro": "C# 项目：A GUI client for Windows, Linux and macOS, support Xray and sing-box and others"
     },
     {
       "repo": "jaywcjlove/awesome-mac",
       "name": "awesome-mac",
-      "stars": 104112,
+      "stars": 104118,
       "language": "Swift",
       "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
       "url": "https://github.com/jaywcjlove/awesome-mac",
@@ -1682,9 +1682,9 @@
         "software"
       ],
       "created_at": "2016-07-17T15:33:47Z",
-      "updated_at": "2026-05-16T06:00:33Z",
+      "updated_at": "2026-05-16T08:01:07Z",
       "pushed_at": "2026-05-13T23:01:19Z",
-      "growth_24h": 51,
+      "growth_24h": 57,
       "growth_24h_percent": 0.05,
       "status": "TRACKING",
       "zh_intro": "Mac 精选资源列表"
@@ -1692,7 +1692,7 @@
     {
       "repo": "google-gemini/gemini-cli",
       "name": "gemini-cli",
-      "stars": 104083,
+      "stars": 104090,
       "language": "TypeScript",
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "url": "https://github.com/google-gemini/gemini-cli",
@@ -1706,17 +1706,17 @@
         "mcp-server"
       ],
       "created_at": "2025-04-17T17:04:31Z",
-      "updated_at": "2026-05-16T06:17:05Z",
+      "updated_at": "2026-05-16T07:54:19Z",
       "pushed_at": "2026-05-15T23:49:44Z",
-      "growth_24h": 78,
-      "growth_24h_percent": 0.07,
+      "growth_24h": 85,
+      "growth_24h_percent": 0.08,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：An open-source AI agent that brings the power of Gemini directly into your terminal."
     },
     {
       "repo": "microsoft/terminal",
       "name": "terminal",
-      "stars": 103182,
+      "stars": 103186,
       "language": "C++",
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "url": "https://github.com/microsoft/terminal",
@@ -1734,9 +1734,9 @@
         "wsl"
       ],
       "created_at": "2017-08-11T18:38:22Z",
-      "updated_at": "2026-05-16T06:15:32Z",
+      "updated_at": "2026-05-16T07:53:53Z",
       "pushed_at": "2026-05-16T01:32:10Z",
-      "growth_24h": 8,
+      "growth_24h": 12,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "C++ 项目：The new Windows Terminal and the original Windows console host, all in the same place!"
@@ -1744,7 +1744,7 @@
     {
       "repo": "supabase/supabase",
       "name": "supabase",
-      "stars": 102380,
+      "stars": 102383,
       "language": "TypeScript",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "url": "https://github.com/supabase/supabase",
@@ -1770,9 +1770,9 @@
         "websockets"
       ],
       "created_at": "2019-10-12T05:56:49Z",
-      "updated_at": "2026-05-16T04:31:01Z",
+      "updated_at": "2026-05-16T08:04:07Z",
       "pushed_at": "2026-05-15T23:15:54Z",
-      "growth_24h": 28,
+      "growth_24h": 31,
       "growth_24h_percent": 0.03,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：The Postgres development platform. Supabase gives you a dedicated Postgres database to build your we"
@@ -1780,7 +1780,7 @@
     {
       "repo": "immich-app/immich",
       "name": "immich",
-      "stars": 100698,
+      "stars": 100703,
       "language": "TypeScript",
       "description": "High performance self-hosted photo and video management solution.",
       "url": "https://github.com/immich-app/immich",
@@ -1803,9 +1803,9 @@
         "videos"
       ],
       "created_at": "2022-02-03T15:56:27Z",
-      "updated_at": "2026-05-16T06:16:03Z",
+      "updated_at": "2026-05-16T07:15:52Z",
       "pushed_at": "2026-05-16T02:15:42Z",
-      "growth_24h": 90,
+      "growth_24h": 95,
       "growth_24h_percent": 0.09,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：High performance self-hosted photo and video management solution."
@@ -1813,7 +1813,7 @@
     {
       "repo": "github/spec-kit",
       "name": "spec-kit",
-      "stars": 100341,
+      "stars": 100385,
       "language": "Python",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "url": "https://github.com/github/spec-kit",
@@ -1827,10 +1827,10 @@
         "spec-driven"
       ],
       "created_at": "2025-08-21T22:54:31Z",
-      "updated_at": "2026-05-16T06:17:52Z",
+      "updated_at": "2026-05-16T08:06:50Z",
       "pushed_at": "2026-05-15T21:21:34Z",
-      "growth_24h": 603,
-      "growth_24h_percent": 0.6,
+      "growth_24h": 647,
+      "growth_24h_percent": 0.65,
       "status": "TRACKING",
       "zh_intro": "Python 项目：💫 Toolkit to help you get started with Spec-Driven Development"
     },
@@ -1851,7 +1851,7 @@
         "web-performance"
       ],
       "created_at": "2014-09-18T16:12:01Z",
-      "updated_at": "2026-05-16T04:26:25Z",
+      "updated_at": "2026-05-16T07:31:42Z",
       "pushed_at": "2026-05-15T22:01:34Z",
       "growth_24h": 4,
       "growth_24h_percent": 0.0,
@@ -1861,7 +1861,7 @@
     {
       "repo": "Anduin2017/HowToCook",
       "name": "HowToCook",
-      "stars": 100070,
+      "stars": 100076,
       "language": "Unknown",
       "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
       "url": "https://github.com/Anduin2017/HowToCook",
@@ -1873,9 +1873,9 @@
         "recipes"
       ],
       "created_at": "2020-02-29T10:43:49Z",
-      "updated_at": "2026-05-16T06:06:21Z",
+      "updated_at": "2026-05-16T08:00:23Z",
       "pushed_at": "2026-05-15T06:37:13Z",
-      "growth_24h": 47,
+      "growth_24h": 53,
       "growth_24h_percent": 0.05,
       "status": "TRACKING",
       "zh_intro": "Unknown 项目：程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
@@ -1883,7 +1883,7 @@
     {
       "repo": "pytorch/pytorch",
       "name": "pytorch",
-      "stars": 99943,
+      "stars": 99944,
       "language": "Python",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "url": "https://github.com/pytorch/pytorch",
@@ -1898,9 +1898,9 @@
         "tensor"
       ],
       "created_at": "2016-08-13T05:26:41Z",
-      "updated_at": "2026-05-16T06:01:57Z",
-      "pushed_at": "2026-05-16T06:14:31Z",
-      "growth_24h": 25,
+      "updated_at": "2026-05-16T08:05:24Z",
+      "pushed_at": "2026-05-16T08:07:07Z",
+      "growth_24h": 26,
       "growth_24h_percent": 0.03,
       "status": "TRACKING",
       "zh_intro": "Python 项目：Tensors and Dynamic neural networks in Python with strong GPU acceleration"
@@ -1908,7 +1908,7 @@
     {
       "repo": "neovim/neovim",
       "name": "neovim",
-      "stars": 99667,
+      "stars": 99670,
       "language": "Vim Script",
       "description": "Vim-fork focused on extensibility and usability",
       "url": "https://github.com/neovim/neovim",
@@ -1922,9 +1922,9 @@
         "vim"
       ],
       "created_at": "2014-01-31T13:39:22Z",
-      "updated_at": "2026-05-16T06:08:46Z",
+      "updated_at": "2026-05-16T07:44:43Z",
       "pushed_at": "2026-05-16T06:10:07Z",
-      "growth_24h": 16,
+      "growth_24h": 19,
       "growth_24h_percent": 0.02,
       "status": "TRACKING",
       "zh_intro": "Vim Script 项目：Vim-fork focused on extensibility and usability"
@@ -1932,7 +1932,7 @@
     {
       "repo": "mui/material-ui",
       "name": "material-ui",
-      "stars": 98347,
+      "stars": 98348,
       "language": "JavaScript",
       "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
       "url": "https://github.com/mui/material-ui",
@@ -1944,9 +1944,9 @@
         "react-components"
       ],
       "created_at": "2014-08-18T19:11:54Z",
-      "updated_at": "2026-05-16T04:29:18Z",
+      "updated_at": "2026-05-16T07:08:57Z",
       "pushed_at": "2026-05-15T10:20:26Z",
-      "growth_24h": 5,
+      "growth_24h": 6,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "JavaScript 项目：Material UI: Comprehensive React component library that implements Google's Material Design. Free fo"
@@ -1954,7 +1954,7 @@
     {
       "repo": "fastapi/fastapi",
       "name": "fastapi",
-      "stars": 98238,
+      "stars": 98242,
       "language": "Python",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "url": "https://github.com/fastapi/fastapi",
@@ -1981,9 +1981,9 @@
         "web"
       ],
       "created_at": "2018-12-08T08:21:47Z",
-      "updated_at": "2026-05-16T05:58:28Z",
+      "updated_at": "2026-05-16T07:48:44Z",
       "pushed_at": "2026-05-15T15:18:28Z",
-      "growth_24h": 25,
+      "growth_24h": 29,
       "growth_24h_percent": 0.03,
       "status": "TRACKING",
       "zh_intro": "Python 项目：FastAPI framework, high performance, easy to learn, fast to code, ready for production"
@@ -1991,7 +1991,7 @@
     {
       "repo": "ant-design/ant-design",
       "name": "ant-design",
-      "stars": 98044,
+      "stars": 98045,
       "language": "TypeScript",
       "description": "An enterprise-class UI design language and React UI library",
       "url": "https://github.com/ant-design/ant-design",
@@ -2005,9 +2005,9 @@
         "ui-library"
       ],
       "created_at": "2015-04-24T15:37:24Z",
-      "updated_at": "2026-05-16T06:00:27Z",
-      "pushed_at": "2026-05-16T05:26:15Z",
-      "growth_24h": 12,
+      "updated_at": "2026-05-16T07:39:46Z",
+      "pushed_at": "2026-05-16T07:52:31Z",
+      "growth_24h": 13,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：An enterprise-class UI design language and React UI library"
@@ -2015,23 +2015,23 @@
     {
       "repo": "garrytan/gstack",
       "name": "gstack",
-      "stars": 97669,
+      "stars": 97710,
       "language": "TypeScript",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "url": "https://github.com/garrytan/gstack",
       "topics": [],
       "created_at": "2026-03-11T21:22:45Z",
-      "updated_at": "2026-05-16T06:15:13Z",
+      "updated_at": "2026-05-16T08:01:53Z",
       "pushed_at": "2026-05-16T01:03:16Z",
-      "growth_24h": 609,
-      "growth_24h_percent": 0.63,
+      "growth_24h": 650,
+      "growth_24h_percent": 0.67,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag"
     },
     {
       "repo": "microsoft/Web-Dev-For-Beginners",
       "name": "Web-Dev-For-Beginners",
-      "stars": 95756,
+      "stars": 95757,
       "language": "JavaScript",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
       "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
@@ -2046,10 +2046,10 @@
         "tutorials"
       ],
       "created_at": "2020-11-10T02:44:00Z",
-      "updated_at": "2026-05-16T04:29:03Z",
+      "updated_at": "2026-05-16T07:28:11Z",
       "pushed_at": "2026-05-13T00:29:58Z",
-      "growth_24h": 4,
-      "growth_24h_percent": 0.0,
+      "growth_24h": 5,
+      "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "JavaScript 项目：24 Lessons, 12 Weeks, Get Started as a Web Developer"
     },
@@ -2080,7 +2080,7 @@
     {
       "repo": "rasbt/LLMs-from-scratch",
       "name": "LLMs-from-scratch",
-      "stars": 94878,
+      "stars": 94884,
       "language": "Jupyter Notebook",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
@@ -2103,9 +2103,9 @@
         "transformers"
       ],
       "created_at": "2023-07-23T18:15:57Z",
-      "updated_at": "2026-05-16T06:14:49Z",
+      "updated_at": "2026-05-16T07:53:07Z",
       "pushed_at": "2026-05-11T14:14:00Z",
-      "growth_24h": 82,
+      "growth_24h": 88,
       "growth_24h_percent": 0.09,
       "status": "TRACKING",
       "zh_intro": "Jupyter Notebook 项目：Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"
@@ -2139,7 +2139,7 @@
     {
       "repo": "browser-use/browser-use",
       "name": "browser-use",
-      "stars": 94104,
+      "stars": 94113,
       "language": "Python",
       "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
       "url": "https://github.com/browser-use/browser-use",
@@ -2153,17 +2153,17 @@
         "python"
       ],
       "created_at": "2024-10-31T16:00:56Z",
-      "updated_at": "2026-05-16T05:49:43Z",
+      "updated_at": "2026-05-16T08:05:26Z",
       "pushed_at": "2026-05-15T00:09:18Z",
-      "growth_24h": 102,
-      "growth_24h_percent": 0.11,
+      "growth_24h": 111,
+      "growth_24h_percent": 0.12,
       "status": "TRACKING",
       "zh_intro": "Python 项目：🌐 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "repo": "nvm-sh/nvm",
       "name": "nvm",
-      "stars": 93395,
+      "stars": 93394,
       "language": "Shell",
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "url": "https://github.com/nvm-sh/nvm",
@@ -2183,7 +2183,7 @@
         "zsh"
       ],
       "created_at": "2010-04-15T17:47:47Z",
-      "updated_at": "2026-05-16T06:08:53Z",
+      "updated_at": "2026-05-16T06:49:55Z",
       "pushed_at": "2026-05-16T06:08:47Z",
       "growth_24h": 0,
       "growth_24h_percent": 0.0,
@@ -2193,7 +2193,7 @@
     {
       "repo": "hacksider/Deep-Live-Cam",
       "name": "Deep-Live-Cam",
-      "stars": 93048,
+      "stars": 93050,
       "language": "Python",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "url": "https://github.com/hacksider/Deep-Live-Cam",
@@ -2218,9 +2218,9 @@
         "webcamera"
       ],
       "created_at": "2023-09-24T13:19:31Z",
-      "updated_at": "2026-05-16T05:59:50Z",
+      "updated_at": "2026-05-16T08:00:22Z",
       "pushed_at": "2026-05-15T08:33:58Z",
-      "growth_24h": 24,
+      "growth_24h": 26,
       "growth_24h_percent": 0.03,
       "status": "TRACKING",
       "zh_intro": "Python 项目：real time face swap and one-click video deepfake with only a single image"
@@ -2228,23 +2228,23 @@
     {
       "repo": "ruanyf/weekly",
       "name": "weekly",
-      "stars": 91169,
+      "stars": 91177,
       "language": "Unknown",
       "description": "科技爱好者周刊，每周五发布",
       "url": "https://github.com/ruanyf/weekly",
       "topics": [],
       "created_at": "2018-10-13T12:36:07Z",
-      "updated_at": "2026-05-16T06:16:26Z",
+      "updated_at": "2026-05-16T07:56:11Z",
       "pushed_at": "2026-05-15T00:42:27Z",
-      "growth_24h": 71,
-      "growth_24h_percent": 0.08,
+      "growth_24h": 79,
+      "growth_24h_percent": 0.09,
       "status": "TRACKING",
       "zh_intro": "Unknown 项目：科技爱好者周刊，每周五发布"
     },
     {
       "repo": "oven-sh/bun",
       "name": "bun",
-      "stars": 90673,
+      "stars": 90689,
       "language": "Rust",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "url": "https://github.com/oven-sh/bun",
@@ -2263,10 +2263,10 @@
         "ziglang"
       ],
       "created_at": "2021-04-14T00:48:17Z",
-      "updated_at": "2026-05-16T06:12:49Z",
-      "pushed_at": "2026-05-16T06:14:43Z",
-      "growth_24h": 286,
-      "growth_24h_percent": 0.32,
+      "updated_at": "2026-05-16T07:52:24Z",
+      "pushed_at": "2026-05-16T08:06:34Z",
+      "growth_24h": 302,
+      "growth_24h_percent": 0.33,
       "status": "TRACKING",
       "zh_intro": "Rust 项目：Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
     },
@@ -2322,7 +2322,7 @@
         "p2p"
       ],
       "created_at": "2010-12-19T15:16:43Z",
-      "updated_at": "2026-05-16T05:32:16Z",
+      "updated_at": "2026-05-16T06:34:05Z",
       "pushed_at": "2026-05-16T00:00:02Z",
       "growth_24h": 13,
       "growth_24h_percent": 0.01,
@@ -2332,7 +2332,7 @@
     {
       "repo": "microsoft/playwright",
       "name": "playwright",
-      "stars": 88787,
+      "stars": 88789,
       "language": "TypeScript",
       "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
       "url": "https://github.com/microsoft/playwright",
@@ -2354,17 +2354,17 @@
         "webkit"
       ],
       "created_at": "2019-11-15T18:32:42Z",
-      "updated_at": "2026-05-16T06:11:30Z",
+      "updated_at": "2026-05-16T07:45:18Z",
       "pushed_at": "2026-05-16T00:48:13Z",
-      "growth_24h": 57,
-      "growth_24h_percent": 0.06,
+      "growth_24h": 59,
+      "growth_24h_percent": 0.07,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We"
     },
     {
       "repo": "gin-gonic/gin",
       "name": "gin",
-      "stars": 88513,
+      "stars": 88512,
       "language": "Go",
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui",
       "url": "https://github.com/gin-gonic/gin",
@@ -2378,9 +2378,9 @@
         "server"
       ],
       "created_at": "2014-06-16T23:57:25Z",
-      "updated_at": "2026-05-16T05:13:43Z",
+      "updated_at": "2026-05-16T06:34:09Z",
       "pushed_at": "2026-05-09T02:20:34Z",
-      "growth_24h": -2,
+      "growth_24h": -3,
       "growth_24h_percent": -0.0,
       "status": "TRACKING",
       "zh_intro": "Go 项目：Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with "
@@ -2388,7 +2388,7 @@
     {
       "repo": "gohugoio/hugo",
       "name": "hugo",
-      "stars": 88075,
+      "stars": 88078,
       "language": "Go",
       "description": "The world’s fastest framework for building websites.",
       "url": "https://github.com/gohugoio/hugo",
@@ -2402,9 +2402,9 @@
         "static-site-generator"
       ],
       "created_at": "2013-07-04T15:26:26Z",
-      "updated_at": "2026-05-16T05:21:23Z",
+      "updated_at": "2026-05-16T07:18:48Z",
       "pushed_at": "2026-05-15T17:50:42Z",
-      "growth_24h": 16,
+      "growth_24h": 19,
       "growth_24h_percent": 0.02,
       "status": "TRACKING",
       "zh_intro": "Go 项目：The world’s fastest framework for building websites."
@@ -2412,7 +2412,7 @@
     {
       "repo": "mermaid-js/mermaid",
       "name": "mermaid",
-      "stars": 88073,
+      "stars": 88075,
       "language": "TypeScript",
       "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
       "url": "https://github.com/mermaid-js/mermaid",
@@ -2427,17 +2427,17 @@
         "uml-diagrams"
       ],
       "created_at": "2014-11-01T23:52:32Z",
-      "updated_at": "2026-05-16T05:10:03Z",
+      "updated_at": "2026-05-16T07:59:59Z",
       "pushed_at": "2026-05-16T05:11:46Z",
-      "growth_24h": 13,
-      "growth_24h_percent": 0.01,
+      "growth_24h": 15,
+      "growth_24h_percent": 0.02,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdow"
     },
     {
       "repo": "ChatGPTNextWeb/NextChat",
       "name": "NextChat",
-      "stars": 88006,
+      "stars": 88003,
       "language": "TypeScript",
       "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
       "url": "https://github.com/ChatGPTNextWeb/NextChat",
@@ -2463,9 +2463,9 @@
         "webui"
       ],
       "created_at": "2023-03-10T18:27:54Z",
-      "updated_at": "2026-05-16T06:01:27Z",
+      "updated_at": "2026-05-16T06:56:03Z",
       "pushed_at": "2026-05-15T01:19:01Z",
-      "growth_24h": 13,
+      "growth_24h": 10,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows"
@@ -2473,7 +2473,7 @@
     {
       "repo": "opencv/opencv",
       "name": "opencv",
-      "stars": 87499,
+      "stars": 87498,
       "language": "C++",
       "description": "Open Source Computer Vision Library",
       "url": "https://github.com/opencv/opencv",
@@ -2485,9 +2485,9 @@
         "opencv"
       ],
       "created_at": "2012-07-19T09:40:17Z",
-      "updated_at": "2026-05-16T06:08:32Z",
+      "updated_at": "2026-05-16T07:52:44Z",
       "pushed_at": "2026-05-15T12:45:03Z",
-      "growth_24h": 11,
+      "growth_24h": 10,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "C++ 项目：Open Source Computer Vision Library"
@@ -2495,7 +2495,7 @@
     {
       "repo": "django/django",
       "name": "django",
-      "stars": 87488,
+      "stars": 87489,
       "language": "Python",
       "description": "The Web framework for perfectionists with deadlines.",
       "url": "https://github.com/django/django",
@@ -2511,9 +2511,9 @@
         "web"
       ],
       "created_at": "2012-04-28T02:47:18Z",
-      "updated_at": "2026-05-16T05:41:03Z",
+      "updated_at": "2026-05-16T06:40:39Z",
       "pushed_at": "2026-05-15T07:45:37Z",
-      "growth_24h": 1,
+      "growth_24h": 2,
       "growth_24h_percent": 0.0,
       "status": "TRACKING",
       "zh_intro": "Python 项目：The Web framework for perfectionists with deadlines."
@@ -2536,8 +2536,8 @@
         "raspberry-pi"
       ],
       "created_at": "2013-09-17T07:29:48Z",
-      "updated_at": "2026-05-16T06:11:51Z",
-      "pushed_at": "2026-05-16T06:11:42Z",
+      "updated_at": "2026-05-16T08:04:08Z",
+      "pushed_at": "2026-05-16T07:19:27Z",
       "growth_24h": 15,
       "growth_24h_percent": 0.02,
       "status": "TRACKING",
@@ -2546,7 +2546,7 @@
     {
       "repo": "louislam/uptime-kuma",
       "name": "uptime-kuma",
-      "stars": 86834,
+      "stars": 86838,
       "language": "JavaScript",
       "description": "A fancy self-hosted monitoring tool",
       "url": "https://github.com/louislam/uptime-kuma",
@@ -2565,9 +2565,9 @@
         "websocket"
       ],
       "created_at": "2021-07-03T01:02:42Z",
-      "updated_at": "2026-05-16T06:16:45Z",
-      "pushed_at": "2026-05-16T00:19:52Z",
-      "growth_24h": 61,
+      "updated_at": "2026-05-16T08:01:38Z",
+      "pushed_at": "2026-05-16T07:49:37Z",
+      "growth_24h": 65,
       "growth_24h_percent": 0.07,
       "status": "TRACKING",
       "zh_intro": "JavaScript 项目：A fancy self-hosted monitoring tool"
@@ -2575,7 +2575,7 @@
     {
       "repo": "sveltejs/svelte",
       "name": "svelte",
-      "stars": 86574,
+      "stars": 86573,
       "language": "JavaScript",
       "description": "web development for the rest of us",
       "url": "https://github.com/sveltejs/svelte",
@@ -2585,9 +2585,9 @@
         "ui"
       ],
       "created_at": "2016-11-20T18:13:05Z",
-      "updated_at": "2026-05-16T05:25:01Z",
+      "updated_at": "2026-05-16T06:37:31Z",
       "pushed_at": "2026-05-15T21:20:30Z",
-      "growth_24h": 4,
+      "growth_24h": 3,
       "growth_24h_percent": 0.0,
       "status": "TRACKING",
       "zh_intro": "JavaScript 项目：web development for the rest of us"
@@ -2595,15 +2595,15 @@
     {
       "repo": "modelcontextprotocol/servers",
       "name": "servers",
-      "stars": 85725,
+      "stars": 85728,
       "language": "TypeScript",
       "description": "Model Context Protocol Servers",
       "url": "https://github.com/modelcontextprotocol/servers",
       "topics": [],
       "created_at": "2024-11-19T01:10:17Z",
-      "updated_at": "2026-05-16T05:27:05Z",
+      "updated_at": "2026-05-16T08:03:21Z",
       "pushed_at": "2026-05-12T14:15:10Z",
-      "growth_24h": 49,
+      "growth_24h": 52,
       "growth_24h_percent": 0.06,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：Model Context Protocol Servers"
@@ -2611,13 +2611,13 @@
     {
       "repo": "mattpocock/skills",
       "name": "skills",
-      "stars": 85393,
+      "stars": 85579,
       "language": "Shell",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "url": "https://github.com/mattpocock/skills",
       "topics": [],
       "created_at": "2026-02-03T11:15:53Z",
-      "updated_at": "2026-05-16T06:17:52Z",
+      "updated_at": "2026-05-16T08:07:13Z",
       "pushed_at": "2026-05-13T13:05:22Z",
       "growth_24h": 0,
       "growth_24h_percent": 0.0,
@@ -2627,7 +2627,7 @@
     {
       "repo": "punkpeye/awesome-mcp-servers",
       "name": "awesome-mcp-servers",
-      "stars": 86959,
+      "stars": 86967,
       "language": "Unknown",
       "description": "A collection of MCP servers.",
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
@@ -2635,15 +2635,15 @@
         "ai",
         "mcp"
       ],
-      "growth_24h": 56,
-      "growth_24h_percent": 0.06,
+      "growth_24h": 64,
+      "growth_24h_percent": 0.07,
       "status": "TRACKING",
       "zh_intro": "Mcp-Servers 精选资源列表"
     },
     {
       "repo": "astral-sh/uv",
       "name": "uv",
-      "stars": 84992,
+      "stars": 84998,
       "language": "Rust",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "url": "https://github.com/astral-sh/uv",
@@ -2653,15 +2653,15 @@
         "resolver",
         "uv"
       ],
-      "growth_24h": 53,
-      "growth_24h_percent": 0.06,
+      "growth_24h": 59,
+      "growth_24h_percent": 0.07,
       "status": "TRACKING",
       "zh_intro": "Rust 项目：An extremely fast Python package and project manager, written in Rust."
     },
     {
       "repo": "syncthing/syncthing",
       "name": "syncthing",
-      "stars": 84048,
+      "stars": 84050,
       "language": "Go",
       "description": "Open Source Continuous File Synchronization",
       "url": "https://github.com/syncthing/syncthing",
@@ -2671,7 +2671,7 @@
         "peer-to-peer",
         "synchronization"
       ],
-      "growth_24h": 31,
+      "growth_24h": 33,
       "growth_24h_percent": 0.04,
       "status": "TRACKING",
       "zh_intro": "Go 项目：Open Source Continuous File Synchronization"
@@ -2679,7 +2679,7 @@
     {
       "repo": "sherlock-project/sherlock",
       "name": "sherlock",
-      "stars": 83378,
+      "stars": 83384,
       "language": "Python",
       "description": "Hunt down social media accounts by username across social networks",
       "url": "https://github.com/sherlock-project/sherlock",
@@ -2701,8 +2701,8 @@
         "sherlock",
         "tools"
       ],
-      "growth_24h": 29,
-      "growth_24h_percent": 0.03,
+      "growth_24h": 35,
+      "growth_24h_percent": 0.04,
       "status": "TRACKING",
       "zh_intro": "Python 项目：Hunt down social media accounts by username across social networks"
     },
@@ -2727,7 +2727,7 @@
     {
       "repo": "zed-industries/zed",
       "name": "zed",
-      "stars": 82912,
+      "stars": 82919,
       "language": "Rust",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "url": "https://github.com/zed-industries/zed",
@@ -2737,7 +2737,7 @@
         "text-editor",
         "zed"
       ],
-      "growth_24h": 96,
+      "growth_24h": 103,
       "growth_24h_percent": 0.12,
       "status": "TRACKING",
       "zh_intro": "Rust 项目：Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators "
@@ -2745,7 +2745,7 @@
     {
       "repo": "hoppscotch/hoppscotch",
       "name": "hoppscotch",
-      "stars": 79184,
+      "stars": 79186,
       "language": "TypeScript",
       "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
       "url": "https://github.com/hoppscotch/hoppscotch",
@@ -2769,7 +2769,7 @@
         "vuejs",
         "websocket"
       ],
-      "growth_24h": -6,
+      "growth_24h": -4,
       "growth_24h_percent": -0.01,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desk"
@@ -2777,7 +2777,7 @@
     {
       "repo": "infiniflow/ragflow",
       "name": "ragflow",
-      "stars": 80597,
+      "stars": 80602,
       "language": "Python",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "url": "https://github.com/infiniflow/ragflow",
@@ -2793,8 +2793,8 @@
         "rag",
         "retrieval-augmented-generation"
       ],
-      "growth_24h": 58,
-      "growth_24h_percent": 0.07,
+      "growth_24h": 63,
+      "growth_24h_percent": 0.08,
       "status": "TRACKING",
       "zh_intro": "Python 项目：RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge"
     },
@@ -2835,7 +2835,7 @@
     {
       "repo": "vllm-project/vllm",
       "name": "vllm",
-      "stars": 80152,
+      "stars": 80162,
       "language": "Python",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "url": "https://github.com/vllm-project/vllm",
@@ -2861,28 +2861,28 @@
         "tpu",
         "transformer"
       ],
-      "growth_24h": 104,
-      "growth_24h_percent": 0.13,
+      "growth_24h": 114,
+      "growth_24h_percent": 0.14,
       "status": "TRACKING",
       "zh_intro": "Python 项目：A high-throughput and memory-efficient inference and serving engine for LLMs"
     },
     {
       "repo": "openai/codex",
       "name": "codex",
-      "stars": 82964,
+      "stars": 82979,
       "language": "Rust",
       "description": "Lightweight coding agent that runs in your terminal",
       "url": "https://github.com/openai/codex",
       "topics": [],
-      "growth_24h": 204,
-      "growth_24h_percent": 0.25,
+      "growth_24h": 219,
+      "growth_24h_percent": 0.26,
       "status": "TRACKING",
       "zh_intro": "Rust 项目：Lightweight coding agent that runs in your terminal"
     },
     {
       "repo": "Stirling-Tools/Stirling-PDF",
       "name": "Stirling-PDF",
-      "stars": 78804,
+      "stars": 78808,
       "language": "TypeScript",
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "url": "https://github.com/Stirling-Tools/Stirling-PDF",
@@ -2901,15 +2901,15 @@
         "pdfmerger",
         "self-hosted"
       ],
-      "growth_24h": 43,
-      "growth_24h_percent": 0.05,
+      "growth_24h": 47,
+      "growth_24h_percent": 0.06,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere"
     },
     {
       "repo": "elastic/elasticsearch",
       "name": "elasticsearch",
-      "stars": 76701,
+      "stars": 76702,
       "language": "Java",
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "url": "https://github.com/elastic/elasticsearch",
@@ -2918,15 +2918,15 @@
         "java",
         "search-engine"
       ],
-      "growth_24h": -1,
-      "growth_24h_percent": -0.0,
+      "growth_24h": 0,
+      "growth_24h_percent": 0.0,
       "status": "TRACKING",
       "zh_intro": "Java 项目：Free and Open Source, Distributed, RESTful Search Engine"
     },
     {
       "repo": "lobehub/lobehub",
       "name": "lobehub",
-      "stars": 77142,
+      "stars": 77145,
       "language": "TypeScript",
       "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo",
       "url": "https://github.com/lobehub/lobehub",
@@ -2944,7 +2944,7 @@
         "mcp",
         "openai"
       ],
-      "growth_24h": 46,
+      "growth_24h": 49,
       "growth_24h_percent": 0.06,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：The ultimate space for work and life — to find, build, and collaborate with agent teammates that gro"
@@ -2979,7 +2979,7 @@
     {
       "repo": "unionlabs/union",
       "name": "union",
-      "stars": 74090,
+      "stars": 74089,
       "language": "Rust",
       "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
       "url": "https://github.com/unionlabs/union",
@@ -3004,7 +3004,7 @@
         "typescript",
         "zero-knowledge"
       ],
-      "growth_24h": 1,
+      "growth_24h": 0,
       "growth_24h_percent": 0.0,
       "status": "TRACKING",
       "zh_intro": "Rust 项目：The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely"
@@ -3012,7 +3012,7 @@
     {
       "repo": "grafana/grafana",
       "name": "grafana",
-      "stars": 73774,
+      "stars": 73776,
       "language": "TypeScript",
       "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
       "url": "https://github.com/grafana/grafana",
@@ -3033,7 +3033,7 @@
         "postgres",
         "prometheus"
       ],
-      "growth_24h": 26,
+      "growth_24h": 28,
       "growth_24h_percent": 0.04,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：The open and composable observability and data visualization platform. Visualize metrics, logs, and "
@@ -3041,7 +3041,7 @@
     {
       "repo": "openai/openai-cookbook",
       "name": "openai-cookbook",
-      "stars": 73546,
+      "stars": 73548,
       "language": "Jupyter Notebook",
       "description": "Examples and guides for using the OpenAI API",
       "url": "https://github.com/openai/openai-cookbook",
@@ -3051,7 +3051,7 @@
         "openai",
         "openai-api"
       ],
-      "growth_24h": 19,
+      "growth_24h": 21,
       "growth_24h_percent": 0.03,
       "status": "TRACKING",
       "zh_intro": "Jupyter Notebook 项目：Examples and guides for using the OpenAI API"
@@ -3059,7 +3059,7 @@
     {
       "repo": "apache/superset",
       "name": "superset",
-      "stars": 72857,
+      "stars": 72856,
       "language": "TypeScript",
       "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
       "url": "https://github.com/apache/superset",
@@ -3083,7 +3083,7 @@
         "sql-editor",
         "superset"
       ],
-      "growth_24h": 17,
+      "growth_24h": 16,
       "growth_24h_percent": 0.02,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：Apache Superset is a Data Visualization and Data Exploration Platform"
@@ -3091,12 +3091,12 @@
     {
       "repo": "python/cpython",
       "name": "cpython",
-      "stars": 72716,
+      "stars": 72715,
       "language": "Python",
       "description": "The Python programming language",
       "url": "https://github.com/python/cpython",
       "topics": [],
-      "growth_24h": 17,
+      "growth_24h": 16,
       "growth_24h_percent": 0.02,
       "status": "TRACKING",
       "zh_intro": "Python 项目：The Python programming language"
@@ -3104,7 +3104,7 @@
     {
       "repo": "daytonaio/daytona",
       "name": "daytona",
-      "stars": 72442,
+      "stars": 72440,
       "language": "TypeScript",
       "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
       "url": "https://github.com/daytonaio/daytona",
@@ -3118,15 +3118,15 @@
         "code-interpreter",
         "developer-tools"
       ],
-      "growth_24h": 1,
-      "growth_24h_percent": 0.0,
+      "growth_24h": -1,
+      "growth_24h_percent": -0.0,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code"
     },
     {
       "repo": "OpenHands/OpenHands",
       "name": "OpenHands",
-      "stars": 73694,
+      "stars": 73701,
       "language": "Python",
       "description": "🙌 OpenHands: AI-Driven Development",
       "url": "https://github.com/OpenHands/OpenHands",
@@ -3141,8 +3141,8 @@
         "llm",
         "openai"
       ],
-      "growth_24h": 108,
-      "growth_24h_percent": 0.15,
+      "growth_24h": 115,
+      "growth_24h_percent": 0.16,
       "status": "TRACKING",
       "zh_intro": "Python 项目：🙌 OpenHands: AI-Driven Development"
     },
@@ -3196,7 +3196,7 @@
     {
       "repo": "protocolbuffers/protobuf",
       "name": "protobuf",
-      "stars": 71225,
+      "stars": 71226,
       "language": "C++",
       "description": "Protocol Buffers - Google's data interchange format",
       "url": "https://github.com/protocolbuffers/protobuf",
@@ -3210,7 +3210,7 @@
         "rpc",
         "serialization"
       ],
-      "growth_24h": 2,
+      "growth_24h": 3,
       "growth_24h_percent": 0.0,
       "status": "TRACKING",
       "zh_intro": "C++ 项目：Protocol Buffers - Google's data interchange format"
@@ -3218,7 +3218,7 @@
     {
       "repo": "fffaraz/awesome-cpp",
       "name": "awesome-cpp",
-      "stars": 71264,
+      "stars": 71266,
       "language": "Unknown",
       "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
       "url": "https://github.com/fffaraz/awesome-cpp",
@@ -3236,7 +3236,7 @@
         "programming-tutorial",
         "resources"
       ],
-      "growth_24h": 5,
+      "growth_24h": 7,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "Cpp 精选资源列表"
@@ -3244,12 +3244,12 @@
     {
       "repo": "danielmiessler/SecLists",
       "name": "SecLists",
-      "stars": 70931,
+      "stars": 70930,
       "language": "PHP",
       "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi",
       "url": "https://github.com/danielmiessler/SecLists",
       "topics": [],
-      "growth_24h": 10,
+      "growth_24h": 9,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "PHP 项目：SecLists is the security tester's companion. It's a collection of multiple types of lists used durin"
@@ -3257,12 +3257,12 @@
     {
       "repo": "swiftlang/swift",
       "name": "swift",
-      "stars": 69989,
+      "stars": 69988,
       "language": "Swift",
       "description": "The Swift Programming Language",
       "url": "https://github.com/swiftlang/swift",
       "topics": [],
-      "growth_24h": -1,
+      "growth_24h": -2,
       "growth_24h_percent": -0.0,
       "status": "TRACKING",
       "zh_intro": "Swift 项目：The Swift Programming Language"
@@ -3270,7 +3270,7 @@
     {
       "repo": "toeverything/AFFiNE",
       "name": "AFFiNE",
-      "stars": 68413,
+      "stars": 68417,
       "language": "TypeScript",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r",
       "url": "https://github.com/toeverything/AFFiNE",
@@ -3294,15 +3294,15 @@
         "wiki",
         "workspace"
       ],
-      "growth_24h": 16,
-      "growth_24h_percent": 0.02,
+      "growth_24h": 20,
+      "growth_24h_percent": 0.03,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha"
     },
     {
       "repo": "thedotmack/claude-mem",
       "name": "claude-mem",
-      "stars": 76040,
+      "stars": 76058,
       "language": "TypeScript",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla",
       "url": "https://github.com/thedotmack/claude-mem",
@@ -3328,15 +3328,15 @@
         "sqlite",
         "supermemory"
       ],
-      "growth_24h": 215,
-      "growth_24h_percent": 0.28,
+      "growth_24h": 233,
+      "growth_24h_percent": 0.31,
       "status": "TRACKING",
       "zh_intro": "TypeScript 项目：Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses"
     },
     {
       "repo": "OpenBB-finance/OpenBB",
       "name": "OpenBB",
-      "stars": 67615,
+      "stars": 67617,
       "language": "Python",
       "description": "Financial data platform for analysts, quants and AI agents.",
       "url": "https://github.com/OpenBB-finance/OpenBB",
@@ -3355,7 +3355,7 @@
         "quantitative-finance",
         "stocks"
       ],
-      "growth_24h": 27,
+      "growth_24h": 29,
       "growth_24h_percent": 0.04,
       "status": "TRACKING",
       "zh_intro": "Python 项目：Financial data platform for analysts, quants and AI agents."
@@ -3363,7 +3363,7 @@
     {
       "repo": "scikit-learn/scikit-learn",
       "name": "scikit-learn",
-      "stars": 66094,
+      "stars": 66093,
       "language": "Python",
       "description": "scikit-learn: machine learning in Python",
       "url": "https://github.com/scikit-learn/scikit-learn",
@@ -3374,7 +3374,7 @@
         "python",
         "statistics"
       ],
-      "growth_24h": 6,
+      "growth_24h": 5,
       "growth_24h_percent": 0.01,
       "status": "TRACKING",
       "zh_intro": "Python 项目：scikit-learn: machine learning in Python"
@@ -3434,7 +3434,7 @@
     {
       "repo": "bytedance/deer-flow",
       "name": "deer-flow",
-      "stars": 67933,
+      "stars": 67946,
       "language": "Python",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
       "url": "https://github.com/bytedance/deer-flow",
@@ -3458,15 +3458,15 @@
         "superagent",
         "typescript"
       ],
-      "growth_24h": 141,
-      "growth_24h_percent": 0.21,
+      "growth_24h": 154,
+      "growth_24h_percent": 0.23,
       "status": "TRACKING",
       "zh_intro": "Python 项目：An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of"
     },
     {
       "repo": "pathwaycom/pathway",
       "name": "pathway",
-      "stars": 63315,
+      "stars": 63313,
       "language": "Python",
       "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
       "url": "https://github.com/pathwaycom/pathway",
@@ -3489,7 +3489,7 @@
         "streaming",
         "time-series-analysis"
       ],
-      "growth_24h": -6,
+      "growth_24h": -8,
       "growth_24h_percent": -0.01,
       "status": "TRACKING",
       "zh_intro": "Python 项目：Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
