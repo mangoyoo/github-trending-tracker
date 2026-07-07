@@ -1,47 +1,47 @@
 # 🔥 GitHub Star 增长最快项目追踪
 
-> 📅 数据更新于 2026-07-06 08:15（每日自动更新）
+> 📅 数据更新于 2026-07-07 07:33（每日自动更新）
 
 ## 📈 Top 30（按 24 小时 Star 增长量）
 
 | 排名 | 项目 | 语言 | Stars | 24h 增长 | 状态 |
 |------|------|------|-------|---------|------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 157,933 | +1090 (0.69%) 🚀 | 👁️ |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 247,243 | +849 (0.34%) 🚀 | 👁️ |
-| 3 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | 145,415 | +828 (0.57%) 🚀 | 👁️ |
-| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 209,922 | +583 (0.28%) 🚀 | 👁️ |
-| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 127,717 | +560 (0.44%) 🚀 | 👁️ |
-| 6 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | 106,307 | +560 (0.53%) 🚀 | 👁️ |
-| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Python | 101,390 | +491 (0.49%) 📈 | 👁️ |
-| 8 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | Rust | 113,706 | +417 (0.37%) 📈 | 👁️ |
-| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 182,793 | +360 (0.2%) 📈 | 👁️ |
-| 10 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 119,813 | +314 (0.26%) 📈 | 👁️ |
-| 11 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | Unknown | 481,920 | +313 (0.06%) 📈 | 👁️ |
-| 12 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 226,434 | +313 (0.14%) 📈 | 👁️ |
-| 13 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 226,434 | +313 (0.14%) 📈 | 👁️ |
-| 14 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | 136,429 | +310 (0.23%) 📈 | 👁️ |
-| 15 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 446,984 | +307 (0.07%) 📈 | 👁️ |
-| 16 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | 175,528 | +288 (0.16%) 📈 | 👁️ |
-| 17 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 158,563 | +281 (0.18%) 📈 | 👁️ |
-| 18 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 103,013 | +241 (0.23%) 📈 | 👁️ |
-| 19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Unknown | 303,151 | +237 (0.08%) 📈 | 👁️ |
-| 20 | [github/spec-kit](https://github.com/github/spec-kit) | Python | 118,254 | +207 (0.18%) 📈 | 👁️ |
-| 21 | [openai/codex](https://github.com/openai/codex) | Rust | 95,760 | +206 (0.22%) 📈 | 👁️ |
-| 22 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 306,570 | +198 (0.06%) 📈 | 👁️ |
-| 23 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript | 129,833 | +196 (0.15%) 📈 | 👁️ |
-| 24 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 130,638 | +189 (0.14%) 📈 | 👁️ |
-| 25 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 95,901 | +186 (0.19%) 📈 | 👁️ |
-| 26 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | 128,549 | +183 (0.14%) 📈 | 👁️ |
-| 27 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | JavaScript | 86,056 | +180 (0.21%) 📈 | 👁️ |
-| 28 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python | 272,232 | +148 (0.05%) 📈 | 👁️ |
-| 29 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 119,582 | +147 (0.12%) 📈 | 👁️ |
-| 30 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | 144,376 | +142 (0.1%) 📈 | 👁️ |
+| 1 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | 146,677 | +1262 (0.87%) 🚀 | 👁️ |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 159,131 | +1198 (0.76%) 🚀 | 👁️ |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 248,070 | +827 (0.33%) 🚀 | 👁️ |
+| 4 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 128,384 | +667 (0.52%) 🚀 | 👁️ |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 210,574 | +652 (0.31%) 🚀 | 👁️ |
+| 6 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | Unknown | 482,524 | +604 (0.13%) 🚀 | 👁️ |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Python | 101,902 | +512 (0.5%) 🚀 | 👁️ |
+| 8 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | Rust | 114,126 | +420 (0.37%) 📈 | 👁️ |
+| 9 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 158,974 | +411 (0.26%) 📈 | 👁️ |
+| 10 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 447,348 | +364 (0.08%) 📈 | 👁️ |
+| 11 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 183,146 | +353 (0.19%) 📈 | 👁️ |
+| 12 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 226,766 | +332 (0.15%) 📈 | 👁️ |
+| 13 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 226,766 | +332 (0.15%) 📈 | 👁️ |
+| 14 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 91,474 | +299 (0.33%) 📈 | 👁️ |
+| 15 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 120,107 | +294 (0.25%) 📈 | 👁️ |
+| 16 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | 106,582 | +275 (0.26%) 📈 | 👁️ |
+| 17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Unknown | 303,413 | +262 (0.09%) 📈 | 👁️ |
+| 18 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | 175,785 | +257 (0.15%) 📈 | 👁️ |
+| 19 | [github/spec-kit](https://github.com/github/spec-kit) | Python | 118,480 | +226 (0.19%) 📈 | 👁️ |
+| 20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 130,842 | +204 (0.16%) 📈 | 👁️ |
+| 21 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 103,214 | +201 (0.2%) 📈 | 👁️ |
+| 22 | [openai/codex](https://github.com/openai/codex) | Rust | 95,958 | +198 (0.21%) 📈 | 👁️ |
+| 23 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | 136,611 | +182 (0.13%) 📈 | 👁️ |
+| 24 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 306,750 | +180 (0.06%) 📈 | 👁️ |
+| 25 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 96,081 | +180 (0.19%) 📈 | 👁️ |
+| 26 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | JavaScript | 86,227 | +171 (0.2%) 📈 | 👁️ |
+| 27 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript | 129,995 | +162 (0.12%) 📈 | 👁️ |
+| 28 | [langgenius/dify](https://github.com/langgenius/dify) | TypeScript | 147,990 | +142 (0.1%) 📈 | 👁️ |
+| 29 | [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 164,972 | +140 (0.08%) 📈 | 👁️ |
+| 30 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Batchfile | 182,119 | +139 (0.08%) 📈 | 👁️ |
 
 ---
 
 ## 📊 统计信息
 
-- 共追踪 **141** 个项目
+- 共追踪 **142** 个项目
 - 今日有增长的项目：**30** 个
 - 新增项目：**0** 个
 
