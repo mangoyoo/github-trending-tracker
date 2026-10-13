@@ -1,41 +1,41 @@
 # 🔥 GitHub Star 增长最快项目追踪
 
-> 📅 数据更新于 2026-10-12 11:35（每日自动更新）
+> 📅 数据更新于 2026-10-13 11:21（每日自动更新）
 
 ## 📈 Top 30（按 24 小时 Star 增长量）
 
 | 排名 | 项目 | 语言 | Stars | 24h 增长 | 状态 |
 |------|------|------|-------|---------|------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 287,157 | +1942 (0.68%) 🚀 | 👁️ |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 277,544 | +760 (0.27%) 🚀 | 👁️ |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 277,544 | +760 (0.27%) 🚀 | 👁️ |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 161,494 | +754 (0.47%) 🚀 | 👁️ |
-| 5 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | 247,970 | +699 (0.28%) 🚀 | 👁️ |
-| 6 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 100,649 | +666 (0.67%) 🚀 | 👁️ |
-| 7 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 105,295 | +643 (0.61%) 🚀 | 👁️ |
-| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 297,967 | +591 (0.2%) 🚀 | 👁️ |
-| 9 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | Rust | 143,162 | +514 (0.36%) 🚀 | 👁️ |
-| 10 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 130,078 | +509 (0.39%) 🚀 | 👁️ |
-| 11 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 99,922 | +467 (0.47%) 📈 | 👁️ |
-| 12 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | Python | 104,713 | +466 (0.45%) 📈 | 👁️ |
-| 13 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 487,781 | +391 (0.08%) 📈 | 👁️ |
-| 14 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 159,274 | +370 (0.23%) 📈 | 👁️ |
-| 15 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | 190,679 | +365 (0.19%) 📈 | 👁️ |
-| 16 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Python | 135,012 | +359 (0.27%) 📈 | 👁️ |
-| 17 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 125,707 | +313 (0.25%) 📈 | 👁️ |
-| 18 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 252,970 | +303 (0.12%) 📈 | 👁️ |
-| 19 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | 197,092 | +295 (0.15%) 📈 | 👁️ |
-| 20 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | 114,498 | +286 (0.25%) 📈 | 👁️ |
-| 21 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust | 150,781 | +280 (0.19%) 📈 | 👁️ |
-| 22 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 326,769 | +278 (0.09%) 📈 | 👁️ |
-| 23 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Unknown | 325,740 | +270 (0.08%) 📈 | 👁️ |
-| 24 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 97,477 | +255 (0.26%) 📈 | 👁️ |
-| 25 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | Unknown | 120,459 | +247 (0.21%) 📈 | 👁️ |
-| 26 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 180,642 | +233 (0.13%) 📈 | 👁️ |
-| 27 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 212,838 | +204 (0.1%) 📈 | 👁️ |
-| 28 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | 150,323 | +198 (0.13%) 📈 | 👁️ |
-| 29 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 137,055 | +197 (0.14%) 📈 | 👁️ |
-| 30 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 136,087 | +195 (0.14%) 📈 | 👁️ |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 184,886 | +53966 (41.22%) 🚀 | 👁️ |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 288,777 | +1620 (0.56%) 🚀 | 👁️ |
+| 3 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | 155,504 | +1106 (0.72%) 🚀 | 👁️ |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 162,241 | +747 (0.46%) 🚀 | 👁️ |
+| 5 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | 248,704 | +734 (0.3%) 🚀 | 👁️ |
+| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 278,204 | +660 (0.24%) 🚀 | 👁️ |
+| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 278,204 | +660 (0.24%) 🚀 | 👁️ |
+| 8 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 105,921 | +626 (0.59%) 🚀 | 👁️ |
+| 9 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 101,250 | +601 (0.6%) 🚀 | 👁️ |
+| 10 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | Rust | 143,636 | +474 (0.33%) 📈 | 👁️ |
+| 11 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 298,431 | +464 (0.16%) 📈 | 👁️ |
+| 12 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 159,700 | +426 (0.27%) 📈 | 👁️ |
+| 13 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 488,199 | +418 (0.09%) 📈 | 👁️ |
+| 14 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 130,433 | +355 (0.27%) 📈 | 👁️ |
+| 15 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | 191,017 | +338 (0.18%) 📈 | 👁️ |
+| 16 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 253,306 | +336 (0.13%) 📈 | 👁️ |
+| 17 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Python | 135,347 | +335 (0.25%) 📈 | 👁️ |
+| 18 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | Unknown | 120,792 | +333 (0.28%) 📈 | 👁️ |
+| 19 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 100,255 | +333 (0.33%) 📈 | 👁️ |
+| 20 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 126,025 | +318 (0.25%) 📈 | 👁️ |
+| 21 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | 114,794 | +296 (0.26%) 📈 | 👁️ |
+| 22 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Unknown | 326,027 | +287 (0.09%) 📈 | 👁️ |
+| 23 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 327,038 | +269 (0.08%) 📈 | 👁️ |
+| 24 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 213,094 | +256 (0.12%) 📈 | 👁️ |
+| 25 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust | 151,027 | +246 (0.16%) 📈 | 👁️ |
+| 26 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | 197,334 | +242 (0.12%) 📈 | 👁️ |
+| 27 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 97,715 | +238 (0.24%) 📈 | 👁️ |
+| 28 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | 150,543 | +220 (0.15%) 📈 | 👁️ |
+| 29 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 137,265 | +210 (0.15%) 📈 | 👁️ |
+| 30 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | TypeScript | 100,875 | +203 (0.2%) 📈 | 👁️ |
 
 ---
 
